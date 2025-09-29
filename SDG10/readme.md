@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Surveys](#surveys)
 - [Scientific Papers](#scientific-papers)
-- [Libraries & Tools](#papers-with-code)
+- [Libraries & Tools](#librairies-and-tools)
 - [Datasets, Benchmarks, Environments, and Libraries](#datasets-benchmarks-environments-and-libraries)
 - [Use Cases](#use-cases)
 - [Courses and Tutorials](#courses-and-tutorials)
@@ -57,7 +57,7 @@ Persons (Bangkok/Vienna)](https://www.osce.org/files/f/documents/7/d/579715.pdf)
 - [Transformer for Action Recognition](https://github.com/PIC4SeR/AcT) – A Self-Attention Model for Short-Time Human Action Recognition 
   
 
-## Datasets, Benchmarks, Environments, and Libraries
+## Datasets and Benchmarks
 
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 - [UNODC Human Trafficking Case Law Database](https://sherloc.unodc.org/cld/en/v3/htms/index.html)
