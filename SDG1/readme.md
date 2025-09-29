@@ -4,16 +4,6 @@
 > An evolving list of resources, datasets, tools, and papers at the intersection of **poverty mapping**, **remote sensing**, and **transformer-based deep learning models**. Feel free to update and contribute !
 
 ---
-
-## 📌 Introduction
-
-Estimating poverty using satellite imagery is a powerful approach to track socioeconomic development in regions lacking reliable census data. Traditional poverty assessments are often expensive, infrequent, and logistically complex—especially in low-income or politically unstable regions. Satellite-based approaches offer scalable, repeatable, and globally consistent methods to infer indicators of wealth and development.
-
-With the advent of **Transformer architectures**, originally developed for natural language processing, we can now model long-range dependencies in spatial imagery and learn better contextual representations. These models have the potential to outperform traditional convolutional neural networks in tasks such as land use classification, asset estimation, and poverty prediction.
-
-This non-exhaustive list gathers available tools, data, and references to help researchers and practitioners harness the power of Transformers for poverty estimation from Earth Observation and make a positive social impact.
-
----
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -21,11 +11,21 @@ This non-exhaustive list gathers available tools, data, and references to help r
 - [Scientific Papers](#scientific-papers)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Libraries and Tools](#libraries-and-tools)
-- [Use Cases & Projects](#use-cases)
+- [Use Cases](#use-cases)
 - [Courses and Tutorials](#courses-and-tutorials)
 - [Books](#books)
 - [Communities and Conferences](#communities-and-conferences)
 - [Conclusion](#conclusion)
+---
+
+
+# 📌 Introduction
+
+Estimating poverty using satellite imagery is a powerful approach to track socioeconomic development in regions lacking reliable census data. Traditional poverty assessments are often expensive, infrequent, and logistically complex—especially in low-income or politically unstable regions. Satellite-based approaches offer scalable, repeatable, and globally consistent methods to infer indicators of wealth and development.
+
+With the advent of **Transformer architectures**, originally developed for natural language processing, we can now model long-range dependencies in spatial imagery and learn better contextual representations. These models have the potential to outperform traditional convolutional neural networks in tasks such as land use classification, asset estimation, and poverty prediction.
+
+This non-exhaustive list gathers available tools, data, and references to help researchers and practitioners harness the power of Transformers for poverty estimation from Earth Observation and make a positive social impact.
 
 ---
 
