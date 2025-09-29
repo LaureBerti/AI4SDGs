@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Surveys](#surveys)
 - [Scientific Papers](#scientific-papers)
-- [Papers with Code](#papers-with-code)
+- [Libraries & Tools](#papers-with-code)
 - [Datasets, Benchmarks, Environments, and Libraries](#datasets-benchmarks-environments-and-libraries)
 - [Use Cases](#use-cases)
 - [Courses and Tutorials](#courses-and-tutorials)
@@ -15,46 +15,51 @@
 - [Communities and Conferences](#communities-and-conferences)
 - [Conclusion](#conclusion)
 
-## [🚨](#introduction)
+## Introduction
 
 Human trafficking is a global crisis affecting over 27 million people. AI, particularly deep learning, can play a transformative role in detecting, monitoring, and preventing trafficking activities. The Swin Transformer—a hierarchical vision transformer—enables powerful capabilities in image, video, and multimodal data analysis. This list is attempting to aggregate resources to support technical efforts in developing responsible, high-impact dep learning solutions against human trafficking.
 
 ## Surveys
 
-1. Zheyuan Ryan Shi, Claire Wang, Fei Fang (2020). [Artificial Intelligence for Social Good: A Survey](https://arxiv.org/abs/2001.01818)
-2. **Vision Transformers: A Survey** – DOI: 10.1109/TPAMI.2023.3242563
-3. **Machine Learning for Human Trafficking Detection** – DOI: 10.1016/j.knosys.2020.106250
-4. **Transformers in Computer Vision: A Survey** – DOI: 10.1016/j.patcog.2022.108863
-5. **Ethics in AI for Security Applications** – DOI: 10.1145/3442188.3445925
+- Zheyuan Ryan Shi, Claire Wang, Fei Fang (2020). [Artificial Intelligence for Social Good: A Survey](https://arxiv.org/abs/2001.01818)
+- Peng Xu, Xiatian Zhu, David A. Clifton (2022). [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488)
+- Salman Khan et al., (2022).  [Transformers in Vision: A Survey](https://dl.acm.org/doi/10.1145/3505244)
+- Christpoher Armitage, (2024). [Predictive Analytics for Human Trafficking Detection: A Machine Learning Framework Grounded in Spatial Criminology](https://doi.org/10.23668/psycharchives.15746)
+- Opeyemi Bamigbade, Mark Scanlon and John Sheppard, (2024). [Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review](https://arxiv.org/html/2402.15448v1)
+- Kai Han et al., (2023). [A Survey on Visual Transformer](https://scispace.com/pdf/a-survey-on-vision-transformer-3fin6y51.pdf)
+
 
 ## Scientific Papers
 
-### Foundational Papers
-
-1. Liu, Z., et al. (2021). **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**. *ICCV*. DOI: 10.1109/ICCV48922.2021.00941
-2. Dosovitskiy, A., et al. (2020). **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**. *arXiv*. [arXiv:2010.11929](https://arxiv.org/abs/2010.11929)
-3. Vaswani, A., et al. (2017). **Attention Is All You Need**. *NeurIPS*. [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
-4. Touvron, H., et al. (2021). **Training data-efficient image transformers & distillation**. *ICML*. DOI: 10.48550/arXiv.2012.12877
-5. Chen, T., et al. (2022). **Multimodal Transformers for Humanitarian Applications**. *arXiv preprint*. [arXiv:2205.03415](https://arxiv.org/abs/2205.03415)
+- Ijiga A. C., et al., (2024) [Advanced surveillance and detection systems using deep learning to combat human
+trafficking](https://magnascientiapub.com/journals/msarr/sites/default/files/MSARR-2024-0091.pdf) *MSARR*.
+- Liu, Z., et al. (2021). **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**. *ICCV*. [DOI: 10.1109/ICCV48922.2021.00941](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
+- Dosovitskiy, A., et al. (2020). **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**. *arXiv*. [arXiv:2010.11929](https://arxiv.org/abs/2010.11929)
+- Vaswani, A., et al. (2017). **Attention Is All You Need**. *NeurIPS*. [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
+- Touvron, H., et al. (2021). **Training data-efficient image transformers & distillation**. *ICML*. [DOI: 10.48550/arXiv.2012.12877](https://proceedings.mlr.press/v139/touvron21a.html)
 
 ### Related Works
 
-6. Kshirsagar, M., et al. (2021). **Combating Online Trafficking using Deep Learning**. *ACM FAT\**.
-7. Chen, L., et al. (2020). **Transformer-based Visual Surveillance in Human Trafficking Detection**.
-8. Li, J., et al. (2022). **A Transformer Approach for Identifying Exploitative Content in Darknet Forums**.
-9. Srivastava, M., et al. (2021). **Cross-modal AI in Trafficking Hotspot Prediction**.
-10. Zhou, C., et al. (2023). **Ethical AI for Anti-Trafficking in Financial Systems**.
+- OCSE (2024). [Policy Brief. New Frontiers: The Use of Generative Artificial Intelligence to Facilitate Trafficking in
+Persons (Bangkok/Vienna)](https://www.osce.org/files/f/documents/7/d/579715.pdf)
+- Tong e. et al., (2017). [Combating Human Trafficking with Multimodal Deep Models](https://aclanthology.org/P17-1142/)
+- Sangher, K.S., Singh, A. & Pandey, H.M. (2024). [LSTM and BERT based transformers models for cyber threat intelligence for intent identification of social media platforms exploitation from darknet forums](https://link.springer.com/article/10.1007/s41870-024-02077-5)
+- Murray, H., Gore, M.L. & Dilkina, B. (2025). [Encoding and decoding illegal wildlife trade networks reveals key airport characteristics and undetected hotspots](https://www.nature.com/articles/s43247-025-02371-5)
+- Chris Bagnall, et al., (2025) [AI’s Role in Combating Human Trafficking in the Financial Sector](https://www.acamstoday.org/ais-role-in-combating-human-trafficking-in-the-financial-sector/)
+- Shubham Goel, et al., (2023). [Humans in 4D: Reconstructing and Tracking Humans with Transformers](https://arxiv.org/pdf/2305.20091)
+- Ellie Simonson (2021). [Classification of Social Media Posts: Identifying Sex-Industry Posts to Enable Better Support for Those Experiencing Sex-Trafficking ]([https://paperswithcode.com/paper/multimodal-classification-for-online](https://arxiv.org/abs/2104.03233)
+- Tobias Christian Nauen, et al., (2023). [Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers](https://arxiv.org/abs/2308.09372-
 
-## Papers with Code
 
-1. [Swin Transformer](https://paperswithcode.com/paper/swin-transformer-hierarchical-vision) – Official PyTorch implementation
-2. [DeepTraffick](https://paperswithcode.com/paper/deeptraffick) – Multimodal trafficking detection (Vision + NLP)
-3. [Transformer for Action Recognition](https://paperswithcode.com/paper/action-transformer-network-a-self-attention) – Behavior analysis in videos
-4. [Social Media Trafficking Classifier](https://paperswithcode.com/paper/multimodal-classification-for-online) – Classification of trafficking-related posts
-5. [Visual Transformers for Object Tracking](https://paperswithcode.com/task/visual-object-tracking) – Swin variants for people tracking
+## Libraries & Tools
+
+- [Swin Transformer](https://huggingface.co/papers/2103.14030) – Official PyTorch implementation
+- [Transformer for Action Recognition](https://github.com/PIC4SeR/AcT) – A Self-Attention Model for Short-Time Human Action Recognition 
+  
 
 ## Datasets, Benchmarks, Environments, and Libraries
 
+- [Humanitarian Data Exchange](https://data.humdata.org/)
 - [UNODC Human Trafficking Case Law Database](https://sherloc.unodc.org/cld/en/v3/htms/index.html)
 - [HT-Dataset (Synthetic for Human Trafficking Scenes)](https://github.com/htdataset)
 - [Hugging Face: Swin Transformer](https://huggingface.co/docs/transformers/model_doc/swin)
@@ -63,35 +68,28 @@ Human trafficking is a global crisis affecting over 27 million people. AI, parti
 
 ## Use Cases
 
-- [Marinus Analytics: Traffic Jam](https://www.marinusanalytics.com/) – AI for identifying trafficking victims online
-- [Thorn’s Spotlight](https://www.thorn.org/spotlight/) – Online exploitation detection
+- [Tech Against Trafficking](https://techagainsttrafficking.org/)
+- [Thorn](https://www.thorn.org/) – Victim identificaton and child protection
 - [Microsoft AI for Good: Human Trafficking](https://www.microsoft.com/en-us/ai/ai-for-good) – Prototypes using deep learning
-- [DataKind + Polaris Project](https://www.datakind.org/) – Call data mining for hotline analysis
-- [UNODC Global Trafficking Trends](https://www.unodc.org/unodc/en/human-trafficking/glo-act.html) – Research-supported detection models
+- [Veritone](https://www.veritone.com/blog/ai-public-safety-human-trafficking/)
+- [DataKind + Polaris Project](https://www.datakind.org/) – Humanitarian Data Insights Project  
+- [UNODC Global Trafficking Trends](https://www.unodc.org/unodc/en/human-trafficking/glo-act/index-1st-phase.html) – Research-supported detection models
 
 ## Courses and Tutorials
 
-- [Coursera – Vision Transformers](https://www.coursera.org/projects/vision-transformers)
-- [YouTube: Swin Transformer Explained](https://www.youtube.com/watch?v=Gzb6B8L9V7c)
-- [FastAI Computer Vision Course](https://course.fast.ai/)
+- [Swin Transformer Paper Explained](https://www.youtube.com/watch?v=qUSPbHE3OeU)
+- [FastAI Computer Vision Course](https://docs.fast.ai/tutorial.vision.html)
 - [GitHub: Swin Transformer Fine-tuning](https://github.com/microsoft/Swin-Transformer)
-- [Deep Learning Specialization – Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 
 ## Books
 
-- *Deep Learning* by Ian Goodfellow et al.
-- *Transformers for Machine Learning* by Uday Kamath
-- *Artificial Intelligence for Social Good* by Ravi Shroff
-- *Machine Learning for Open Source Intelligence* by Steven F. Arnold
-- *Vision Transformers and Beyond* by Ajay Baranwal
+- *AI for Good: Applications in Sustainability, Humanitarian Action and Health* by Juan M. Lavista Ferres, William B. Weeks, Wiley, ISBN 2024 978-1394235872
 
 ## Communities and Conferences
 
-- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-- [IEEE IoT Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
-- [NeurIPS](https://nips.cc/)
+- [AI4Good](https://ai4good.org/)
 - [Partnership on AI](https://www.partnershiponai.org/)
-- [ACL: NLP & Social Good Workshop](https://www.nlpsocialgood.org/)
+- [NLP for Social Good](https://www.nlpsocialgood.org/)
 
 ## Conclusion
 
@@ -99,4 +97,4 @@ Fighting human trafficking demands multidisciplinary efforts and ethical AI deve
 
 ---
 
-> 💡 Contributions welcome. Please follow the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
+> 💡 Contributions welcome!
