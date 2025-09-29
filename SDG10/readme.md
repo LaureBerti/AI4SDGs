@@ -1,7 +1,6 @@
+# 🌍 Combatting Human Trafficking with Swin Transformer
 
-# Awesome Combatting Human Trafficking with Swin Transformer [🚨](#introduction)
-
-> A curated list of high-quality, verified resources to empower researchers, developers, and activists to apply Swin Transformer models in the fight against human trafficking.
+> An evolving list of high-quality, verified resources to empower researchers, developers, and activists to apply **Swin Transformer models in the fight against human trafficking**.  Feel free to update and contribute !
 
 ## Table of Contents
 
@@ -16,13 +15,13 @@
 - [Communities and Conferences](#communities-and-conferences)
 - [Conclusion](#conclusion)
 
-## Introduction
+## [🚨](#introduction)
 
-Human trafficking is a global crisis affecting over 27 million people. AI, particularly deep learning, can play a transformative role in detecting, monitoring, and preventing trafficking activities. The Swin Transformer—a hierarchical vision transformer—enables powerful capabilities in image, video, and multimodal data analysis. This Awesome List aggregates resources to support technical efforts in developing responsible, high-impact Swin Transformer solutions against human trafficking.
+Human trafficking is a global crisis affecting over 27 million people. AI, particularly deep learning, can play a transformative role in detecting, monitoring, and preventing trafficking activities. The Swin Transformer—a hierarchical vision transformer—enables powerful capabilities in image, video, and multimodal data analysis. This list is attempting to aggregate resources to support technical efforts in developing responsible, high-impact dep learning solutions against human trafficking.
 
 ## Surveys
 
-1. **AI for Social Good: A Review** – DOI: 10.1109/TKDE.2021.3114565
+1. Zheyuan Ryan Shi, Claire Wang, Fei Fang (2020). [Artificial Intelligence for Social Good: A Survey](https://arxiv.org/abs/2001.01818)
 2. **Vision Transformers: A Survey** – DOI: 10.1109/TPAMI.2023.3242563
 3. **Machine Learning for Human Trafficking Detection** – DOI: 10.1016/j.knosys.2020.106250
 4. **Transformers in Computer Vision: A Survey** – DOI: 10.1016/j.patcog.2022.108863
@@ -96,7 +95,7 @@ Human trafficking is a global crisis affecting over 27 million people. AI, parti
 
 ## Conclusion
 
-Fighting human trafficking demands multidisciplinary efforts and ethical AI development. Swin Transformers offer a new frontier in scalable, visual and multimodal intelligence. However, much work remains to ensure these technologies are frugal, robust, and deployed with justice in mind. Researchers and developers must prioritize explainability, security, and data privacy while accelerating innovation in humanitarian AI systems.
+Fighting human trafficking demands multidisciplinary efforts and ethical AI development. Transformers and other deep learning techniques can offer a new frontier in scalable, visual and multimodal intelligence. However, much work remains to ensure these technologies are frugal, robust, and deployed with justice in mind. 
 
 ---
 
