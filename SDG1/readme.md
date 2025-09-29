@@ -72,18 +72,19 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 
 ## 🎓 Courses and Tutorials
 
-- [Deep Learning with Satellite Imagery (Coursera)](https://www.coursera.org/learn/deep-learning-satellite-imagery)
-- [Remote Sensing with Google Earth Engine (YouTube Playlist)](https://www.youtube.com/playlist?list=PLzudUcx7bEwhEnLnzR4nKpknK1QNA2Rza)
-- [Transformers from Scratch (Hugging Face)](https://huggingface.co/transformers/course/index.html)
-- [Earth Observation 101 (FutureLearn)](https://www.futurelearn.com/courses/earth-observation)
-- [GeoAI with Python (GitHub)](https://github.com/developmentseed/geoai)
+- [Deep learning Workshop for Satellite Imagery (youtube)](https://www.youtube.com/watch?v=3Xn21RT-y7Y)
+- [Google Earth Engine 101: An Introduction for Complete Beginners (youtube)](https://www.youtube.com/watch?v=oAElakLgCdA)
+- [Spatial Thoughts OpenCourseWare](https://courses.spatialthoughts.com/end-to-end-gee.html)
+- [Transformers (Hugging Face)](https://huggingface.co/learn/computer-vision-course/en/unit7/video-processing/transformers-based-models#video-vision-transformer-vivit)
+- [Earth Observation from Space: the Optical View (FutureLearn)](https://www.futurelearn.com/courses/optical-earth-observation)
+- [GeoAI with Python (GitHub)](https://www.youtube.com/watch?v=teqyY8GNYRU)
 
 ---
 
 ## 📖 Books
 
 - "Deep Learning for Remote Sensing Images with Open Source Software" by Rémi Cresson, CRC Press, 2020, ISBN 9 780367 858483.
-- "Explainable Machine Learning for Geospatial Data Analysis" by Courage Kamusoko,  CRC Press, 2020. [eBook ISBN 9781003398257](https://doi.org/10.1201/9781003398257) 
+- "Explainable Machine Learning for Geospatial Data Analysis" by Courage Kamusoko,  CRC Press, 2024. [eBook ISBN 9781003398257](https://doi.org/10.1201/9781003398257) 
 - "Handbook of Geospatial Artificial Intelligence" by Song Gao, Yingjie Hu, Wenwen Li, CRC Press 2024, ISBN 9781032311661.
 
 
