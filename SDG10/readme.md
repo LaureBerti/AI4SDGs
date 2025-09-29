@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Surveys](#surveys)
 - [Scientific Papers](#scientific-papers)
-- [Libraries and Tools](#librairies-and-tools)
+- [Libraries and Tools](#libraries-and-tools)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Use Cases](#use-cases)
 - [Courses and Tutorials](#courses-and-tutorials)
