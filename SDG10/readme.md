@@ -7,8 +7,8 @@
 - [Introduction](#introduction)
 - [Surveys](#surveys)
 - [Scientific Papers](#scientific-papers)
-- [Libraries & Tools](#librairies-and-tools)
-- [Datasets, Benchmarks, Environments, and Libraries](#datasets-benchmarks-environments-and-libraries)
+- [Libraries and Tools](#librairies-and-tools)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Use Cases](#use-cases)
 - [Courses and Tutorials](#courses-and-tutorials)
 - [Books](#books)
@@ -51,7 +51,7 @@ Persons (Bangkok/Vienna)](https://www.osce.org/files/f/documents/7/d/579715.pdf)
 - Tobias Christian Nauen, et al., (2023). [Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers](https://arxiv.org/abs/2308.09372-
 
 
-## Libraries & Tools
+## Libraries and Tools
 
 - [Swin Transformer](https://huggingface.co/papers/2103.14030) – Official PyTorch implementation
 - [Transformer for Action Recognition](https://github.com/PIC4SeR/AcT) – A Self-Attention Model for Short-Time Human Action Recognition 
