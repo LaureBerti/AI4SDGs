@@ -19,7 +19,7 @@
 ---
 
 
-# 📌 Introduction
+## Introduction
 
 Estimating poverty using satellite imagery is a powerful approach to track socioeconomic development in regions lacking reliable census data. Traditional poverty assessments are often expensive, infrequent, and logistically complex—especially in low-income or politically unstable regions. Satellite-based approaches offer scalable, repeatable, and globally consistent methods to infer indicators of wealth and development.
 
@@ -29,7 +29,7 @@ This non-exhaustive list gathers available tools, data, and references to help r
 
 ---
 
-## 📚 Scientific Papers
+## Scientific Papers
 
 - Jean, N. et al. (2016). [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894). *Science*, 353(6301), 790–794.
 - Ayush, K. et al. (2021). [Efficient Poverty Mapping from High-Resolution Satellite Imagery](https://arxiv.org/abs/2101.03489). *arXiv preprint arXiv:2101.03489*.
@@ -39,7 +39,7 @@ This non-exhaustive list gathers available tools, data, and references to help r
 
 ---
 
-## 🧾 [Surveys](#surveys)
+## Surveys
 
 - Rolnick, D. et al. (2022). [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433). *arXiv:1906.05433*.
 - Miller, L. et al. (2024). [Review of Deep Learning Applications in Satellite Imagery](https://ieeexplore.ieee.org/document/10529247). *IEEE Geoscience and Remote Sensing Magazine*.
@@ -52,7 +52,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 
 ---
 
-## 🛰️ [Datasets and Benchmarks](#datasets-and-benchmarks)
+## Datasets and Benchmarks
 
 - [World Bank LSMS Data](https://www.worldbank.org/en/programs/lsms) – Survey-based socioeconomic data across developing countries.
 - [XView2 Dataset](https://xview2.org/) – Satellite imagery for disaster response, often used as proxy for infrastructure damage and poverty.
@@ -64,7 +64,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
   
 ---
 
-## 🛠️ [Libraries and Tools](#libraries-and-tools)
+## Libraries and Tools
 
 - [Hugging Face Transformers](https://huggingface.co/transformers/) – State-of-the-art Transformer models.
 - [Raster Vision](https://github.com/azavea/raster-vision) – Computer vision models on satellite images.
@@ -74,7 +74,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 
 ---
 
-## 🌍 [Use Cases & Projects](#use-cases)
+## Use Cases and Projects
 
 
 - [AI for Earth (Microsoft)](https://www.microsoft.com/en-us/ai/ai-for-earth) – API & Tools for sustainable development and poverty estimation.
@@ -84,7 +84,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 
 ---
 
-## 🎓 [Courses and Tutorials](#courses-and-tutorials)
+## Courses and Tutorials
 
 - [Deep learning Workshop for Satellite Imagery (youtube)](https://www.youtube.com/watch?v=3Xn21RT-y7Y)
 - [Google Earth Engine 101: An Introduction for Complete Beginners (youtube)](https://www.youtube.com/watch?v=oAElakLgCdA)
@@ -95,7 +95,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 
 ---
 
-## 📖 [Books](#books)
+## Books
 
 - "Deep Learning for Remote Sensing Images with Open Source Software" by Rémi Cresson, CRC Press, 2020, ISBN 9 780367 858483.
 - "Explainable Machine Learning for Geospatial Data Analysis" by Courage Kamusoko,  CRC Press, 2024. [eBook ISBN 9781003398257](https://doi.org/10.1201/9781003398257) 
@@ -104,7 +104,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 
 ---
 
-## 👥 [Communities and Conferences](#communities-and-conferences)
+## Communities and Conferences
 
 - [ML4EO](https://ml4eo.org/)
 - [EarthVision @ CVPR](https://earthvision.site/)
@@ -115,7 +115,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 
 ---
 
-## 🌱 [Conclusion](#conclusion)
+## Conclusion
 
 Transformer models and deep learning techniques represent a major leap forward in the analysis of satellite imagery for poverty estimation. With their ability to model global spatial relationships, they offer unprecedented accuracy and scalability in extracting socioeconomic insights from complex geospatial data.
 
