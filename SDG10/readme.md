@@ -28,7 +28,6 @@ Human trafficking is a global crisis affecting over 27 million people. AI, parti
 - Opeyemi Bamigbade, Mark Scanlon and John Sheppard, (2024). [Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review](https://arxiv.org/html/2402.15448v1)
 - Kai Han et al., (2023). [A Survey on Visual Transformer](https://scispace.com/pdf/a-survey-on-vision-transformer-3fin6y51.pdf)
 
-
 ## Scientific Papers
 
 - Ijiga A. C., et al., (2024) [Advanced surveillance and detection systems using deep learning to combat human
@@ -50,12 +49,10 @@ Persons (Bangkok/Vienna)](https://www.osce.org/files/f/documents/7/d/579715.pdf)
 - Ellie Simonson (2021). [Classification of Social Media Posts: Identifying Sex-Industry Posts to Enable Better Support for Those Experiencing Sex-Trafficking ]([https://paperswithcode.com/paper/multimodal-classification-for-online](https://arxiv.org/abs/2104.03233)
 - Tobias Christian Nauen, et al., (2023). [Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers](https://arxiv.org/abs/2308.09372-
 
-
 ## Libraries and Tools
 
 - [Swin Transformer](https://huggingface.co/papers/2103.14030) – Official PyTorch implementation
-- [Transformer for Action Recognition](https://github.com/PIC4SeR/AcT) – A Self-Attention Model for Short-Time Human Action Recognition 
-  
+- [Transformer for Action Recognition](https://github.com/PIC4SeR/AcT) – A Self-Attention Model for Short-Time Human Action Recognition   
 
 ## Datasets and Benchmarks
 
