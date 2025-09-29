@@ -11,7 +11,7 @@ Estimating poverty using satellite imagery is a powerful approach to track socio
 
 With the advent of **Transformer architectures**, originally developed for natural language processing, we can now model long-range dependencies in spatial imagery and learn better contextual representations. These models have the potential to outperform traditional convolutional neural networks in tasks such as land use classification, asset estimation, and poverty prediction.
 
-This list gathers the best available tools, data, and references to help researchers and practitioners harness the power of Transformers for poverty estimation and make a positive social impact.
+This non-exhaustive list gathers available tools, data, and references to help researchers and practitioners harness the power of Transformers for poverty estimation from Earth Observation and make a positive social impact.
 
 ---
 
