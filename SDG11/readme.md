@@ -1,4 +1,4 @@
-# SDG 11 - Sea Level Prediction with LSTM
+# 🌍 SDG 11. Sea Level Prediction with LSTM
 
 An evolving list of resources for researchers, developers, and environmental scientists focused on **predicting sea level changes using LSTM (Long Short-Term Memory) neural networks**.
 
