@@ -1,7 +1,7 @@
 
 # 🌍 Awesome: Estimation of Poverty from Satellite Images Using Transformers
 
-> A curated list of resources, datasets, tools, and papers at the intersection of **poverty mapping**, **remote sensing**, and **Transformer-based deep learning models**.
+> An evolving list of resources, datasets, tools, and papers at the intersection of **poverty mapping**, **remote sensing**, and **transformer-based deep learning models**. Feel free to update and contribute !
 
 ---
 
