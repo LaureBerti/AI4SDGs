@@ -19,8 +19,8 @@ This non-exhaustive list gathers available tools, data, and references to help r
 - [Introduction](#introduction)
 - [Surveys](#surveys)
 - [Scientific Papers](#scientific-papers)
-- [Datasets, Benchmarks, Environments, and Libraries](#datasets-benchmarks-environments-and-libraries)
-- [Libraries and Tools](#tools)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Libraries and Tools](#libraries-and-tools)
 - [Use Cases & Projects](#use-cases)
 - [Courses and Tutorials](#courses-and-tutorials)
 - [Books](#books)
@@ -39,7 +39,7 @@ This non-exhaustive list gathers available tools, data, and references to help r
 
 ---
 
-## 🧾 [Surveys and Literature Reviews](#surveys)
+## 🧾 [Surveys](#surveys)
 
 - Rolnick, D. et al. (2022). [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433). *arXiv:1906.05433*.
 - Miller, L. et al. (2024). [Review of Deep Learning Applications in Satellite Imagery](https://ieeexplore.ieee.org/document/10529247). *IEEE Geoscience and Remote Sensing Magazine*.
@@ -52,7 +52,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 
 ---
 
-## 🛰️ [Datasets, Benchmarks, Environments, and Libraries](#datasets-benchmarks-environments-and-libraries)
+## 🛰️ [Datasets and Benchmarks](#datasets-and-benchmarks)
 
 - [World Bank LSMS Data](https://www.worldbank.org/en/programs/lsms) – Survey-based socioeconomic data across developing countries.
 - [XView2 Dataset](https://xview2.org/) – Satellite imagery for disaster response, often used as proxy for infrastructure damage and poverty.
@@ -64,7 +64,7 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
   
 ---
 
-## 🛠️ [Libraries and Tools](#tools)
+## 🛠️ [Libraries and Tools](#libraries-and-tools)
 
 - [Hugging Face Transformers](https://huggingface.co/transformers/) – State-of-the-art Transformer models.
 - [Raster Vision](https://github.com/azavea/raster-vision) – Computer vision models on satellite images.
