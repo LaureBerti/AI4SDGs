@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 [Introduction](#introduction)
+## 📌 Introduction
 
 Estimating poverty using satellite imagery is a powerful approach to track socioeconomic development in regions lacking reliable census data. Traditional poverty assessments are often expensive, infrequent, and logistically complex—especially in low-income or politically unstable regions. Satellite-based approaches offer scalable, repeatable, and globally consistent methods to infer indicators of wealth and development.
 
@@ -29,7 +29,7 @@ This non-exhaustive list gathers available tools, data, and references to help r
 
 ---
 
-## 📚 [Scientific Papers](#scientific-papers)
+## 📚 Scientific Papers
 
 - Jean, N. et al. (2016). [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894). *Science*, 353(6301), 790–794.
 - Ayush, K. et al. (2021). [Efficient Poverty Mapping from High-Resolution Satellite Imagery](https://arxiv.org/abs/2101.03489). *arXiv preprint arXiv:2101.03489*.
