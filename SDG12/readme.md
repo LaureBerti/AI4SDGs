@@ -1,12 +1,12 @@
-# Awesome Waste Classification with Zero-Shot Learning using CLIP
+# 🌍 SDG#12. Waste Classification with Zero-Shot Learning using CLIP
 
-A curated list of high-quality resources for exploring how Zero-Shot Learning (ZSL) and CLIP (Contrastive Language–Image Pretraining) models are applied in the field of **waste classification**. This list includes academic research, datasets, code, tutorials, tools, and communities, with a strong focus on environmental AI applications and sustainability goals.
+A evolving list of resources for exploring how Zero-Shot Learning (ZSL) and CLIP (Contrastive Language–Image Pretraining) models are applied in the field of **waste classification**. This list includes academic research, datasets, code, tutorials, tools, and communities, with a strong focus on environmental AI applications and sustainability goals.
 
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome) and maintained with verified links.
+Feel free to update and contribute !
 
 ---
 
-## 🌍 Introduction
+## Introduction
 
 Waste classification is a critical component of sustainable waste management and recycling systems. Traditional computer vision models require large labeled datasets, but zero-shot learning enables models to generalize to unseen categories using semantic understanding.
 
@@ -14,108 +14,81 @@ CLIP, developed by OpenAI, has revolutionized image-text understanding by aligni
 
 ---
 
-## 📋 Surveys and Reviews
+## Surveys
 
-1. **A Survey on Zero-Shot Learning: Settings, Methods, and Applications**  
-   *DOI:* [10.1109/TPAMI.2021.3054882](https://doi.org/10.1109/TPAMI.2021.3054882)
+- B. Fang, B., et al., (2023).[Artificial intelligence for waste management in smart cities: a review](https://doi.org/10.1007/s10311-023-01604-3)
+*Environmental Chemistry Letters*.
 
-2. **A Review on Deep Learning Approaches for Waste Classification**  
-   *DOI:* [10.1016/j.wasman.2021.05.006](https://doi.org/10.1016/j.wasman.2021.05.006)
-
-3. **Zero-Shot Learning: A Comprehensive Evaluation of the Good, the Bad and the Ugly**  
-   *DOI:* [10.1109/CVPR.2017.258](https://doi.org/10.1109/CVPR.2017.258)
-
-4. **Image Classification Techniques for Smart Waste Management: A Review**  
-   *Link:* [SpringerLink](https://link.springer.com/article/10.1007/s12652-021-03189-2)
-
-5. **Zero-Shot Learning: Past, Present and Future**  
-   *arXiv:* [https://arxiv.org/abs/1904.01198](https://arxiv.org/abs/1904.01198)
+- Y. Xian, B. Schiele, Z. Akata (2017). [Zero-Shot Learning - The Good, the Bad and the Ugly](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf), *CVPR*.
 
 ---
 
-## 📄 Scientific Papers
+## Scientific Papers
 
-1. **Learning Transferable Visual Models From Natural Language Supervision** (CLIP original)  
-   *DOI:* [10.48550/arXiv.2103.00020](https://arxiv.org/abs/2103.00020)
-
-2. **Zero-Shot Waste Classification Using CLIP for Circular Economy**  
-   *arXiv:* [https://arxiv.org/abs/2302.08477](https://arxiv.org/abs/2302.08477)
-
-3. **Open-Vocabulary Object Detection Using Captions**  
-   *DOI:* [10.48550/arXiv.2204.06749](https://arxiv.org/abs/2204.06749)
-
-4. **Vision-Language Pretraining for Few-Shot Learning in the Wild**  
-   *DOI:* [10.48550/arXiv.2104.07667](https://arxiv.org/abs/2104.07667)
-
-5. **Recycling Vision: Leveraging Pretrained CLIP for Zero-Shot Waste Sorting**  
-   *DOI:* [Custom Paper Link](https://example.com)
+- Q. Zhang, et al., (2021). [Recyclable waste image recognition based on deep learning](https://doi.org/10.1016/j.resconrec.2021.105636), *Resources, Conservation and Recycling*, vol. 171.
+- A. Radford, et al., (2021). [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf), *PMLR*, vol. 139.
+- D. Mewada, et al., (2025). [Zero-Shot Learning for Sustainable Municipal Waste Classification](https://www.mdpi.com/2313-4321/10/4/144), *Recycling*, vol. 10, no. 2. 
+- I Ranjbar, et al., (2025). [Zero-shot and few-shot multimodal plastic waste classification with vision-language models](https://www.sciencedirect.com/science/article/pii/S0956053X25002260), *Waste Management*, vol. 202.
+- L. Agnolucci, et al. (2023). [ECO: Ensembling Context Optimization for Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Agnolucci_ECO_Ensembling_Context_Optimization_for_Vision-Language_Models_ICCVW_2023_paper.pdf), *IEEE/CVF*.
+- Md. Nahiduzzaman, et al., (2025). [An automated waste classification system using deep learning techniques: Toward efficient waste recycling and environmental sustainability](https://www.sciencedirect.com/science/article/pii/S0950705125000760), *Knowledge-Based Systems*, vol. 310.
+- Adharsh C. S., et al., (2024). [Deep Learning Approaches for Waste Classification](https://ieeexplore.ieee.org/document/10617120), *2024 International Conference on Advancements in Power, Communication and Intelligent Systems (APCI).
 
 ---
 
-## 🧠 Papers with Code
+## Datasets and Benchmarks
 
-1. [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://paperswithcode.com/paper/learning-transferable-visual-models-from)  
-2. [Zero-Shot Waste Classification with CLIP](https://paperswithcode.com/paper/zero-shot-waste-classification-with-clip)  
-3. [Open-Vocabulary Detection with CLIP and Region Proposals](https://paperswithcode.com/paper/open-vocabulary-object-detection-using)  
-4. [Prompt Learning for Vision-Language Models](https://paperswithcode.com/task/zero-shot-image-classification)  
-5. [CoOp: Context Optimization for Vision-Language Tasks](https://paperswithcode.com/paper/learning-to-prompt-for-vision-language-models)
-
----
-
-## 📦 Datasets, Benchmarks & Libraries
-
-1. [TrashNet Dataset](https://github.com/garythung/trashnet)  
-2. [Waste ImageNet (WInet)](https://zenodo.org/record/7017601)  
-3. [TACO: Trash Annotations in Context](https://tacodataset.org/)  
-4. [HuggingFace Datasets: Image Classification](https://huggingface.co/datasets)  
-5. [OpenAI CLIP Model Library](https://github.com/openai/CLIP)
+- [TrashNet Dataset](https://github.com/garythung/trashnet)  
+- [VisDA 2022](https://ai.bu.edu/visda-2022/)
+- [TACO: Trash Annotations in Context](https://tacodataset.org/)  
+- [Kaggle Datasets: Image Classification](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)  
+- [OpenAI CLIP Model Library](https://github.com/openai/CLIP)
 
 ---
 
-## 🧪 Use Cases and Real-World Applications
+## Use Cases
 
-1. [Bin-e Smart Waste Bin](https://bine.world/)  
-2. [AI for Earth by Microsoft: Waste Management](https://www.microsoft.com/en-us/ai/ai-for-earth)  
-3. [Google AI Waste Classifier Demo](https://experiments.withgoogle.com/what-bin)  
-4. [SmartBin Waste Segregation System](https://smartbin.io/)  
-5. [Plastic Bank Recycling Rewards](https://plasticbank.com/)
-
----
-
-## 🎓 Courses and Tutorials
-
-1. [CLIP Zero-Shot Learning Tutorial by HuggingFace](https://huggingface.co/blog/clip)  
-2. [FastAI Waste Classification Example](https://course.fast.ai/)  
-3. [Zero-Shot Learning with OpenAI CLIP (YouTube)](https://www.youtube.com/watch?v=AAmaX1i4N6c)  
-4. [Kaggle Zero-Shot Image Classifier Starter](https://www.kaggle.com/code)  
-5. [Ultralytics CLIP Integration Tutorial](https://docs.ultralytics.com/guides/clip/)
+- [Bin-e Smart Waste Bin](https://bine.world/)  
+- [AI for Earth by Microsoft: Waste Management](https://www.microsoft.com/en-us/ai/ai-for-earth)  
+- [CircularNet](https://blog.tensorflow.org/2022/10/circularnet-reducing-waste-with-machine.html)  
+- [SmartBin Waste Segregation System](https://smartbin.io/)  
+- [Plastic Bank Recycling Rewards](https://plasticbank.com/)
 
 ---
 
-## 📚 Books
+## Courses and Tutorials
 
-1. *Deep Learning for Computer Vision* – Rajalingappaa Shanmugamani  
-2. *Artificial Intelligence for Recycling and Waste Management* – Mohan Lal Kolhe  
-3. *Machine Learning Yearning* – Andrew Ng  
-4. *Sustainable AI: Artificial Intelligence for Sustainability* – Peter Dabrock (Ed.)  
-5. *Zero-Shot Learning for Vision Tasks* – Springer Briefs in Computer Science
-
----
-
-## 🌐 Communities and Conferences
-
-1. [AI for Good – United Nations](https://aiforgood.itu.int/)  
-2. [Climate Change AI](https://www.climatechange.ai/)  
-3. [CVPR – Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/)  
-4. [ECCV – European Conference on Computer Vision](https://eccv2024.ecva.net/)  
-5. [WACV – Winter Conference on Applications of Computer Vision](https://wacv2024.thecvf.com/)
+- [CLIP Tutorial](https://learnopencv.com/clip-model/)  
+- [FastAI Waste Classification Example](https://medium.com/@mehmet.alp.demiral03/garbage-classification-with-fastai-training-interpreting-and-deploying-to-hugging-face-49a57c161172)
+- [Zero-Shot Learning with OpenAI CLIP (YouTube)](https://www.youtube.com/watch?v=98POYg2HZqQ)  
+- [Kaggle Zero-Shot Image Classifier Starter](https://www.kaggle.com/search?q=Kaggle+Zero-Shot+Image+Classifier)  
+- [Ultralytics CLIP Integration Tutorial](https://docs.ultralytics.com/fr/guides/)
 
 ---
 
-## 🚀 Conclusion
+## Books
+
+- *Circular Intelligence: AI-Driven Solutions for Waste Management* by Saksham Yadav, 2024
+- *AI Technologies for Enhancing Recycling Processes* by Mitra, Debasis, Choudhury, Tanupriya, Madan, Ayush, Chattaraj, Sourav, Pellegrini, Marika
+IGI Global, 2025 
+- *Deep Learning for Computer Vision* by Rajalingappaa Shanmugamani, 2018  
+
+---
+
+## Communities and Conferences
+
+- [AI for Good – United Nations](https://aiforgood.itu.int/)
+- [Computer Vision in the Wild](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
+- [Climate Change AI](https://www.climatechange.ai/)  
+- [CVPR – Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/)  
+- [ECCV – European Conference on Computer Vision](https://eccv2024.ecva.net/)  
+- [WACV – Winter Conference on Applications of Computer Vision](https://wacv.thecvf.com/)
+
+---
+
+##  Conclusion
 
 Zero-shot learning with CLIP offers a scalable, label-efficient approach for addressing the global challenge of waste classification. The fusion of vision-language models and sustainability applications marks a pivotal frontier in machine learning research.
 
-There’s immense potential in expanding open datasets, fine-tuning CLIP for recycling scenarios, and integrating multimodal feedback into sorting infrastructure. Keep exploring, keep experimenting — and be part of building smarter, cleaner, AI-powered systems for the planet 🌱.
+There’s immense potential in expanding open datasets, fine-tuning CLIP for recycling scenarios, and integrating multimodal feedback into sorting infrastructure. Keep exploring, keep experimenting — and be part of building smarter, cleaner, AI-powered systems for the planet.
 
 ---
