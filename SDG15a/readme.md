@@ -1,9 +1,25 @@
 # Detection of Deforestation Using CNN
 
+
+---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Surveys](#surveys)
+- [Scientific Papers](#scientific-papers)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Use Cases](#use-cases)
+- [Courses and Tutorials](#courses-and-tutorials)
+- [Books](#books)
+- [Communities and Conferences](#communities-and-conferences)
+- [Conclusion](#conclusion)
+
+---
+
 ## Introduction
 Deforestation poses a significant threat to biodiversity, climate stability, and ecosystem services worldwide. Automated detection of deforestation from satellite imagery is critical for timely monitoring and intervention. Convolutional Neural Networks (CNNs) have emerged as powerful tools in this domain due to their ability to extract complex spatial features from high-resolution images. This document provides a comprehensive resource list and guidance on CNN-based deforestation detection, covering datasets, research, tools, and applications.
 
----
 
 ## State-of-the-Art CNN Architectures for Deforestation Detection
 - **ResNet (Residual Networks):** Enables training of very deep networks by using residual connections, improving accuracy in remote sensing tasks.  
@@ -102,6 +118,4 @@ Deforestation poses a significant threat to biodiversity, climate stability, and
 Detecting deforestation through CNNs applied to satellite imagery is a transformative approach to environmental monitoring. The fusion of advanced deep learning architectures with growing datasets empowers researchers and policymakers to act swiftly and accurately. Continued innovation in model design, data acquisition, and interpretability will drive the next generation of deforestation detection systems, playing a critical role in global conservation efforts.
 
 ---
-
-*Explore these resources to deepen your understanding, contribute to open-source efforts, and help protect the planet's forests through cutting-edge AI technologies.*
 
