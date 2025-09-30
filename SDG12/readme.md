@@ -6,6 +6,21 @@ Feel free to update and contribute !
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Surveys](#surveys)
+- [Scientific Papers](#scientific-papers)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Use Cases](#use-cases)
+- [Courses and Tutorials](#courses-and-tutorials)
+- [Books](#books)
+- [Communities and Conferences](#communities-and-conferences)
+- [Conclusion](#conclusion)
+
+---
+
+
 ## Introduction
 
 Waste classification is a critical component of sustainable waste management and recycling systems. Traditional computer vision models require large labeled datasets, but zero-shot learning enables models to generalize to unseen categories using semantic understanding.
