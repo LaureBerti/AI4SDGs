@@ -1,5 +1,8 @@
-# Detection of Deforestation Using CNN
+#  🌍 SDG#15. Detection of Deforestation Using CNN
 
+> An evolving list of resources to empower researchers, developers, and activists to apply **CNN for deforestation detection**.
+>
+> Feel free to update and contribute !
 
 ---
 
