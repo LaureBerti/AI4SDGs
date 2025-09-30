@@ -9,9 +9,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Surveys](#surveys)
 - [Scientific Papers](#scientific-papers)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Libraries and Tools](#libraries-and-tools)
 - [Use Cases](#use-cases)
 - [Courses and Tutorials](#courses-and-tutorials)
 - [Books](#books)
@@ -37,6 +37,7 @@ Deforestation poses a significant threat to biodiversity, climate stability, and
 Network for Deforestation Detection in Tropical Forests](), *IEEE Journal of Selected Topics in Applied
 Earth Observations and Remote Sensing*, 2023, vol. 16.
 - M. C. Hansen, et al., (2013).[High-Resolution Global Maps of 21st-Century Forest Cover Change](https://www.science.org/doi/10.1126/science.1244693), *Science*, vol. 342, no. 6160.
+- M.O. Adarme, et al., (2020). [Evaluation of Deep Learning Techniques for Deforestation Detection in the Brazilian Amazon and Cerrado Biomes From Remote Sensing Imagery](https://www.mdpi.com/2072-4292/12/6/910), *Remote Sensing*, vol. 12, no. 6.
 
 ---
 
@@ -64,7 +65,7 @@ Earth Observations and Remote Sensing*, 2023, vol. 16.
 
 ---
 
-## Use Cases and Deployed Systems
+## Use Cases
 - **Global Forest Watch:** Real-time deforestation alerts leveraging CNN models for rapid detection.  
   [https://www.globalforestwatch.org/](https://www.globalforestwatch.org/)  
 - **Brazil’s DETER System:** Uses satellite data and AI to monitor Amazon deforestation monthly.  
@@ -73,9 +74,9 @@ Earth Observations and Remote Sensing*, 2023, vol. 16.
 ---
 
 ## Courses and Tutorials
-- **Deep Learning for Satellite Image Analysis** by Coursera: [https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis](https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis)  
-- **Remote Sensing and Environmental Monitoring with AI** by edX: [https://www.edx.org/course/remote-sensing-environmental-monitoring](https://www.edx.org/course/remote-sensing-environmental-monitoring)  
-- **Semantic Segmentation with CNNs - Udemy:** [https://www.udemy.com/course/semantic-segmentation-with-cnn/](https://www.udemy.com/course/semantic-segmentation-with-cnn/)  
+- **Deep Learning for Satellite Image Analysis:** by Coursera: [https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis](https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis)  
+- **Introduction to Remote Sensing (Geo University):** by edX: [https://www.geo.university/courses/introduction-to-remote-sensing](https://www.geo.university/courses/introduction-to-remote-sensing)  
+- **Semantic Segmentation:** [https://www.classcentral.com/subject/semantic-segmentation](https://www.classcentral.com/subject/semantic-segmentation)  
 - **FastAI Practical Deep Learning for Coders (includes satellite imagery projects):** [https://course.fast.ai/](https://course.fast.ai/)  
 - **YouTube Tutorial Series on Deep Learning for Remote Sensing:** [https://www.youtube.com/results?search_query=deep+learning+for+remote+sensing](https://www.youtube.com/results?search_query=deep+learning+for+remote+sensing)
 
@@ -92,9 +93,9 @@ Earth Observations and Remote Sensing*, 2023, vol. 16.
 
 ## Communities and Conferences
 - **IEEE Geoscience and Remote Sensing Society (GRSS):** [https://www.grss-ieee.org/](https://www.grss-ieee.org/)  
-- **International Geoscience and Remote Sensing Symposium (IGARSS)**  
-- **Planetary Computer User Community:** [https://planetarycomputer.microsoft.com/community](https://planetarycomputer.microsoft.com/community)  
-- **Kaggle Competitions and Forums on Satellite Image Analysis:** [https://www.kaggle.com/](https://www.kaggle.com/)  
+- **International Geoscience and Remote Sensing Symposium (IGARSS):**[https://ieeexplore.ieee.org/xpl/conhome/1000307/all-proceedings](https://ieeexplore.ieee.org/xpl/conhome/1000307/all-proceedings)
+- **Planetary Computer User Community:** [https://planetarycomputer.microsoft.com](https://planetarycomputer.microsoft.com)  
+- **Kaggle Competitions and Forums on Satellite Image Analysis:** [https://www.kaggle.com/search?q=Satellite+Image+Analysis](https://www.kaggle.com/search?q=Satellite+Image+Analysis)  
 
 ---
 
