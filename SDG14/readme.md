@@ -1,10 +1,26 @@
-# 🌊 Awesome Coral Reef Automated Annotation with Transfer Learning
+#  🌍 SDG#14. Coral Reef Automated Annotation with Transfer Learning
 
-A curated list of resources, tools, datasets, papers, and communities focused on **automated annotation of coral reef imagery using transfer learning**. This collection aims to empower marine scientists, machine learning researchers, conservationists, and students to leverage cutting-edge AI for coral reef monitoring and protection.
+An evolving list of resources, tools, datasets, papers, and communities focused on **automated annotation of coral reef imagery using transfer learning**. This collection aims to empower marine scientists, machine learning researchers, conservationists, and students to leverage cutting-edge AI for coral reef monitoring and protection.
+
+> Feel free to update and contribute !
 
 ---
 
-## 🧩 Introduction
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Scientific Papers](#scientific-papers)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Libraries and Tools](#libraries-and-tools)
+- [Use Cases](#use-cases)
+- [Courses and Tutorials](#courses-and-tutorials)
+- [Books](#books)
+- [Communities and Conferences](#communities-and-conferences)
+- [Conclusion](#conclusion)
+
+---
+
+## Introduction
 
 Coral reefs are vital marine ecosystems that support immense biodiversity and provide critical services such as coastal protection and fisheries support. Monitoring reef health through imagery analysis is essential but traditionally manual annotation is laborious and requires expert knowledge.
 
@@ -12,75 +28,58 @@ Transfer learning — adapting pretrained deep learning models to new but relate
 
 ---
 
-## 📚 Surveys and Reviews
+## Scientific Papers
 
-- **A Comprehensive Survey on Transfer Learning**  
-  Pan, S.J., & Yang, Q. (2010). *IEEE Transactions on Knowledge and Data Engineering*.  
+- **SCoralDet: efficient real-time underwater soft coral detection with YOLO**
+  Lu, Z., et al. (2025). *Ecol. Inform.* [https://doi.org/10.1016/j.ecoinf.2024.102937](https://doi.org/10.1016/j.ecoinf.2024.102937)
+
+- **A Survey on Transfer Learning**  
+  Pan, S.J., & Yang, Q. (2010). *IEEE Transactions on Knowledge and Data Engineering*
   [https://doi.org/10.1109/TKDE.2009.191](https://doi.org/10.1109/TKDE.2009.191)
 
-- **Deep Learning for Coral Reef Ecology**  
-  Beijbom, O. et al. (2015). *Methods in Ecology and Evolution*.  
-  [https://doi.org/10.1111/2041-210X.12395](https://doi.org/10.1111/2041-210X.12395)
+- **Deep learning for automated coral reef monitoring a novel system based on YOLOv8 detection and DeepSORT tracking** 
+  Younes, O. et al. (2025). *Ecological Informatics*
+  [https://archimer.ifremer.fr/doc/00951/106312/119399.pdf](https://archimer.ifremer.fr/doc/00951/106312/119399.pdf)
+
+- **Investigating deep learning architectures towards autonomous inspection for marine classification**
+  Andersen, R., et al. (2020). *IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)* [https://doi.org/10.1109/SSRR50563.2020.9292621](https://doi.org/10.1109/SSRR50563.2020.9292621)
+
+- **Toward a new era of coral reef monitoring**
+  Apprill, A., et al. (2023). *Environ. Sci. Technol.* [https://doi.org/10.1021/acs.est.2c05369](https://doi.org/10.1021/acs.est.2c05369)
+  
+- **Machine learning in marine ecology: an overview of techniques and applications**
+ Rubbens, P., et al. (2023). *ICES Journal of Marine Science* [https://academic.oup.com/icesjms/article/80/7/1829/7236451](https://academic.oup.com/icesjms/article/80/7/1829/7236451)
+  
+- **Fish detection and species classification in underwater environments using deep learning with temporal
+information**
+Jalal, A., et al., (2020). *Ecol. Inform.* [https://doi.org/10.1016/j.ecoinf.2020.101088](https://doi.org/10.1016/j.ecoinf.2020.101088)
 
 - **Underwater Image Analysis: A Review**  
-  Akkaynak, D., & Treibitz, T. (2019). *IEEE Transactions on Pattern Analysis and Machine Intelligence*.  
-  [https://doi.org/10.1109/TPAMI.2019.2919307](https://doi.org/10.1109/TPAMI.2019.2919307)
+  Jian, M. et al. (2021). *Signal Processing: Image Communication* 
+  [https://www.sciencedirect.com/science/article/abs/pii/S0923596520302137?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0923596520302137?via%3Dihub)
 
-- **Transfer Learning in Ecological Image Annotation**  
-  Christin, S. et al. (2019). *Ecological Informatics*.  
-  [https://doi.org/10.1016/j.ecoinf.2019.101234](https://doi.org/10.1016/j.ecoinf.2019.101234)
+- **Leveraging transfer learning and active learning for data annotation in passive acoustic monitoring of wildlife**  
+  Kath, H. et al. (2019). *Ecological Informatics*
+  [https://www.sciencedirect.com/science/article/pii/S1574954124002528](https://www.sciencedirect.com/science/article/pii/S1574954124002528)
 
 - **Automated Coral Reef Monitoring: Challenges and Opportunities**  
   Williams, S. et al. (2021). *Frontiers in Marine Science*.  
   [https://doi.org/10.3389/fmars.2021.636199](https://doi.org/10.3389/fmars.2021.636199)
 
----
+- **Automatic annotation of coral reefs using deep learning**
+  Mahmood, A, et al., (2017). *OCEANS 2016 MTS/IEEE Monterey* [https://doi.org/10.1109/OCEANS.2016.7761105](https://doi.org/10.1109/OCEANS.2016.7761105)
 
-## 📄 Key Scientific Papers
-
-1. **Automated Annotation of Coral Reef Benthic Communities Using Deep Learning**  
-   Beijbom, O. et al. (2012). *Proceedings of CVPR*.  
-   [https://doi.org/10.1109/CVPR.2012.6247819](https://doi.org/10.1109/CVPR.2012.6247819)
-
-2. **CoralNet: A Web-Based Platform for Coral Reef Image Annotation**  
-   Beijbom, O. et al. (2015). *Proceedings of OCEANS*.  
-   [https://doi.org/10.1109/OCEANS-Genova.2015.7271466](https://doi.org/10.1109/OCEANS-Genova.2015.7271466)
-
-3. **Transfer Learning for Coral Reef Classification in Underwater Images**  
-   Zhang, Y. et al. (2019). *IEEE Journal of Oceanic Engineering*.  
-   [https://doi.org/10.1109/JOE.2019.2938772](https://doi.org/10.1109/JOE.2019.2938772)
-
-4. **Deep Coral Reef Segmentation Using Transfer Learning with Limited Training Data**  
-   Lin, T. et al. (2020). *Remote Sensing*.  
-   [https://doi.org/10.3390/rs12020233](https://doi.org/10.3390/rs12020233)
-
-5. **Leveraging Pretrained CNNs for Coral Classification**  
-   Gonzalez-Rivero, M. et al. (2021). *Ecological Informatics*.  
-   [https://doi.org/10.1016/j.ecoinf.2021.101295](https://doi.org/10.1016/j.ecoinf.2021.101295)
-
-6. **Related papers citing or related to the above:**  
-   - Automated Marine Habitat Mapping Using Transfer Learning (2022)  
-   - Few-shot Coral Classification with Siamese Networks (2021)  
-   - Deep Learning for Coral Disease Detection (2020)  
-   - Semi-supervised Coral Annotation Using GANs (2022)  
-   - Multimodal Coral Reef Health Monitoring (2023)
+- **A New Deep Learning Engine for CoralNet**  
+   Chen, Q. et al. (2021). *ICCV workshop*.  
+   [https://openaccess.thecvf.com/content/ICCV2021W/OceanVision/papers/Chen_A_New_Deep_Learning_Engine_for_CoralNet_ICCVW_2021_paper.pdf](https://openaccess.thecvf.com/content/ICCV2021W/OceanVision/papers/Chen_A_New_Deep_Learning_Engine_for_CoralNet_ICCVW_2021_paper.pdf)
 
 ---
 
-## 💻 Papers With Code & Implementations
+## Benchmarks and Datasets
 
-- [CoralNet Platform (GitHub)](https://github.com/coralnet/coralnet-api) — Open-source tool for coral image annotation.  
-- [Transfer Learning for Coral Classification (GitHub)](https://github.com/username/coral-transfer-learning) — Example repo applying transfer learning with ResNet.  
-- [Deep Coral Segmentation with UNet (GitHub)](https://github.com/username/coral-unet-segmentation)  
-- [Marine Image Analysis Toolkit](https://github.com/Marine-AI/marine-image-toolkit) — Includes pretrained models for underwater imagery.  
-- [PapersWithCode: Coral Reef Classification](https://paperswithcode.com/task/coral-reef-classification)
-
----
-
-## 📊 Benchmarks, Datasets & Libraries
-
-- **CoralNet Dataset** — Large repository of labeled coral reef images.  
-  [https://coralnet.ucsd.edu/](https://coralnet.ucsd.edu/)
+- **CoralNet Dataset and Platform**  
+  [https://coralnet.ucsd.edu/](https://coralnet.ucsd.edu/) — Large repository of labeled coral reef images. 
+  [CoralNet Platform (GitHub)](https://github.com/coralnet) — Open-source tool for coral image annotation.  
 
 - **MCRAI (Marine Coral Reef Annotation Initiative)** — Underwater image dataset with multi-class labels.  
   [https://marinecoralreef.org/dataset](https://marinecoralreef.org/dataset)
@@ -88,37 +87,24 @@ Transfer learning — adapting pretrained deep learning models to new but relate
 - **Allen Coral Atlas** — High-resolution coral reef maps and data layers.  
   [https://allencoralatlas.org/](https://allencoralatlas.org/)
 
-- **NOAA Coral Reef Image Dataset**  
-  [https://oceanexplorer.noaa.gov/technology/coral-monitoring.html](https://oceanexplorer.noaa.gov/technology/coral-monitoring.html)
-
-- **Libraries:**  
-  - TensorFlow and PyTorch (transfer learning frameworks)  
-  - FastAI (easy transfer learning implementation)  
-  - LabelMe (annotation tool for underwater images)  
-  - Roboflow (dataset management and augmentation)
+- **NOAA Coral Watch Near Real-time Remote Sensing Datasets**  
+  [https://coralreefwatch.noaa.gov/crtr/data_resources.php](https://coralreefwatch.noaa.gov/crtr/data_resources.php)
 
 ---
 
-## 🌐 Use Cases and Projects
-
+## Use Cases
 - **XL Catlin Seaview Survey** — Panoramic underwater imaging for coral monitoring.  
-  [https://seaviewsurvey.org/](https://seaviewsurvey.org/)
+  [https://www.catlinseaviewsurvey.com/](https://www.catlinseaviewsurvey.com/)
 
 - **NOAA Coral Program** — Automated image analysis for coral bleaching and health.  
   [https://coralreef.noaa.gov/](https://coralreef.noaa.gov/)
 
-- **Allen Coral Atlas Project** — Mapping and monitoring global reefs using satellite imagery and AI.  
-  [https://allencoralatlas.org/](https://allencoralatlas.org/)
-
 - **CoralWatch** — Citizen science platform using image annotation apps.  
   [https://coralwatch.org/](https://coralwatch.org/)
 
-- **DeepSeaCam** — Deep learning for automated identification of coral species.  
-  [https://deepseacam.com/](https://deepseacam.com/)
-
 ---
 
-## 🎓 Courses and Tutorials
+## Courses and Tutorials
 
 - **Transfer Learning with TensorFlow 2** (Coursera)  
   [https://www.coursera.org/learn/transfer-learning-tensorflow](https://www.coursera.org/learn/transfer-learning-tensorflow)
@@ -137,36 +123,32 @@ Transfer learning — adapting pretrained deep learning models to new but relate
 
 ---
 
-## 📖 Books
+## Books
 
-- *Deep Learning for the Life Sciences* — Bharath Ramsundar, Peter Eastman et al.  
-- *Marine Ecology: Processes, Systems, and Impacts* — Michel J. Kaiser et al.  
-- *Transfer Learning for Natural Language Processing and Computer Vision* — Qiang Yang et al.  
-- *Underwater Image Processing: Techniques and Applications* — Anwar Jahangir et al.  
-- *Ecological Monitoring with Machine Learning* — Edited volume, Springer (forthcoming)
+- *Deep Learning for the Life Sciences* — Bharath Ramsundar, Peter Eastman et al., 2019 [https://www.oreilly.com/library/view/deep-learning-for/9781492039822/](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/)  
+- *Marine Ecology: Processes, Systems, and Impacts* — Michel J. Kaiser et al., 2005. ISBN: 9780198717850
+- *Transfer Learning in Computer Vision* — Qiang Yang et al., 2020 [https://doi.org/10.1017/9781139061773.019](https://doi.org/10.1017/9781139061773.019)   
+- *Underwater Image Processing* — Sonali Sankpal, 2022.  ISBN-10: ‎ 6204749994  
 
 ---
 
-## 🤝 Communities and Conferences
+## Communities and Conferences
 
 - **CVPR EarthVision Workshop** — Focus on environmental computer vision.  
-  [https://cvpr2024.org/earthvision](https://cvpr2024.org/earthvision)
+  [https://cvpr.thecvf.com/virtual/2025/workshop/32300](https://cvpr.thecvf.com/virtual/2025/workshop/32300)
 
 - **Coral Reef Symposium** — Premier coral reef science conference.  
-  [https://coralreefsymposium.org/](https://coralreefsymposium.org/)
-
-- **Marine AI Slack Community** — Discussion forum for marine applications of AI.  
-  (Invite link available on request)
+  [https://coralreefs.org/conferences-and-meetings/](https://coralreefs.org/conferences-and-meetings/)
 
 - **Global Coral Reef Monitoring Network (GCRMN)**  
   [https://gcrmn.net/](https://gcrmn.net/)
 
 - **Ocean Data Network** — Open science collaboration for marine data.  
-  [https://oceandatanetwork.org/](https://oceandatanetwork.org/)
+  [https://www.oceandata.net/](https://www.oceandata.net/)
 
 ---
 
-## 🚀 Conclusion & Future Directions
+## Conclusion
 
 Coral reefs face unprecedented threats that require fast, accurate, and scalable monitoring solutions. Automated annotation powered by transfer learning unlocks new potential for large-scale reef health assessment, species identification, and ecological research.
 
@@ -175,9 +157,6 @@ Future research should focus on multimodal sensing (combining imagery, acoustic,
 By joining AI advances with marine ecology, we empower conservationists worldwide to better understand, protect, and restore coral reef ecosystems — a mission critical for our planet’s health and biodiversity.
 
 ---
-
-*Contribute to this list or report issues:*  
-[https://github.com/yourusername/awesome-coral-annotation](https://github.com/yourusername/awesome-coral-annotation)
 
 
 
