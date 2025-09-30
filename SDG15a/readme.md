@@ -28,29 +28,26 @@ Deforestation poses a significant threat to biodiversity, climate stability, and
 
 
 ## Scientific Papers
-1. Hansen et al. (2013). "High-Resolution Global Maps of 21st-Century Forest Cover Change." *Science*.  
-   DOI: [10.1126/science.1244693](https://doi.org/10.1126/science.1244693)  
-2. Li et al. (2020). "Deep Learning for Deforestation Detection Using Satellite Imagery." *Remote Sensing*.  
-   DOI: [10.3390/rs12111819](https://doi.org/10.3390/rs12111819)  
-3. Zhu et al. (2017). "Change Detection Based on Deep Neural Networks for Monitoring Forest Deforestation." *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.  
-   DOI: [10.1109/JSTARS.2017.2709838](https://doi.org/10.1109/JSTARS.2017.2709838)  
-4. Belgiu & Csillik (2018). "Sentinel-2 Image Classification Using Random Forest and Deep Learning Algorithms." *Remote Sensing*.  
-   DOI: [10.3390/rs10091455](https://doi.org/10.3390/rs10091455)  
-5. Ienco et al. (2019). "Land Cover Classification via Multitemporal Spatial Data by Deep Recurrent Neural Networks." *IEEE Geoscience and Remote Sensing Letters*.  
-   DOI: [10.1109/LGRS.2019.2923503](https://doi.org/10.1109/LGRS.2019.2923503)  
-6. Other related papers can be found using platforms like [ResearchRabbit](https://researchrabbitapp.com/) or [Scispace](https://scispace.com/).
+- N.Thulasi Chitra, et al., (2021). [Satellite Imagery for Deforestation Prediction using Deep Learning](https://ieeexplore.ieee.org/document/9432087), *International Conference on ent Computing and Control Systems (ICICCS)*
+- T. Yathesh, T., et al. (2025). [Satellite Image-Based Deforestation Detection Using Deep Learning](https://doi.org/10.1007/978-981-96-3939-7_2), *SCI 2024 Lecture Notes in Networks and Systems*, vol. 1318.
+- I. Md Jelas, et al., (2024). [Deforestation detection using deep learning-based semantic segmentation techniques: a systematic review](https://doi.org/10.3389/ffgc.2024.1300060), *Front. For. Glob. Change*, Sec. Forest Management, vol. 7.
+- L. Shumilo, et al. (2021). [Automatic Deforestation Detection based on the Deep Learning in Ukraine](https://ieeexplore.ieee.org/document/9661008)," *IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS)*.
+- U. S. Guimarães, et al., (2025).[ Deep learning models to map deforestation based on Sentinel 1 coherent features in the southern border of Amazon](https://www.sciencedirect.com/science/article/pii/S2666017225000859), *Science of Remote Sensing*, vol. 12.
+- P. Soto Vega, et al., (2023). [Weakly Supervised Domain Adversarial Neural
+Network for Deforestation Detection in Tropical Forests](), *IEEE Journal of Selected Topics in Applied
+Earth Observations and Remote Sensing*, 2023, vol. 16.
+- M. C. Hansen, et al., (2013).[High-Resolution Global Maps of 21st-Century Forest Cover Change](https://www.science.org/doi/10.1126/science.1244693), *Science*, vol. 342, no. 6160.
 
 ---
 
 ## Datasets and Benchmarks
-- **Global Forest Change Dataset (Hansen et al.):** Annual forest loss data from Landsat, global coverage, 30m resolution.  
-  [https://earthenginepartners.appspot.com/science-2013-global-forest](https://earthenginepartners.appspot.com/science-2013-global-forest)  
+- **Global Forest Change Dataset (Hansen et al.):** Annual forest loss data from Landsat, global coverage, 30m resolution.  [https://glad.earthengine.app/view/global-forest-change)](https://glad.earthengine.app/view/global-forest-change)
 - **Amazon Deforestation Dataset:** High-resolution Sentinel-2 imagery covering Amazon rainforest with annotated deforestation patches.  
   [https://registry.opendata.aws/sentinel-2/](https://registry.opendata.aws/sentinel-2/)  
 - **PRODES Dataset (Brazil):** Official annual deforestation mapping dataset for the Amazon region with labeled satellite imagery.  
   [http://terrabrasilis.dpi.inpe.br/en/home-page/](http://terrabrasilis.dpi.inpe.br/en/home-page/)  
 - **LCZ (Local Climate Zones) Dataset:** Includes urban and vegetative land cover maps suitable for forest change detection.  
-  [http://landscapepartnership.org/lcz-datasets/](http://landscapepartnership.org/lcz-datasets/)  
+  [https://lcz-generator.rub.de/global-lcz-map](https://lcz-generator.rub.de/global-lcz-map)  
 - **BigEarthNet:** Large-scale Sentinel-2 image archive with multi-label land use/land cover annotations including forest classes.  
   [https://bigearth.net/](https://bigearth.net/)
 
@@ -59,11 +56,11 @@ Deforestation poses a significant threat to biodiversity, climate stability, and
 ## Libraries and Tools
 - **DeepForest:** Open-source Python package for tree crown detection in satellite imagery based on CNNs.  
   GitHub: [https://github.com/weecology/DeepForest](https://github.com/weecology/DeepForest)  
-- **Deforestation Detection using U-Net:** Code repository with CNN-based semantic segmentation model applied to satellite images.  
-  GitHub: [https://github.com/JohnDoe/deforestation-unet](https://github.com/JohnDoe/deforestation-unet) *(Example repository, verify before use)*  
-- **Forest Change Detection CNN:** Includes training scripts and pretrained weights for detecting forest loss from Landsat imagery.  
-  GitHub: [https://github.com/example/forest-change-cnn](https://github.com/example/forest-change-cnn) *(Example repository)*  
-- Explore [Papers With Code](https://paperswithcode.com/task/deforestation-detection) for latest code-linked research.
+- **ForestTools:** R Code repository for Analyzing Remote Sensing Forest Data. 
+  GitHub: [https://github.com/andrew-plowright/ForestTools](https://github.com/andrew-plowright/ForestTools)  
+- **Remote Sensing Change Detection:** compilation of datasets, tools, methods (including foundation models, diffusion models, transformers, and CNNs) 
+  GitHub: [https://github.com/wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
+
 
 ---
 
@@ -72,17 +69,15 @@ Deforestation poses a significant threat to biodiversity, climate stability, and
   [https://www.globalforestwatch.org/](https://www.globalforestwatch.org/)  
 - **Brazil’s DETER System:** Uses satellite data and AI to monitor Amazon deforestation monthly.  
   [http://terrabrasilis.dpi.inpe.br/en/deter/](http://terrabrasilis.dpi.inpe.br/en/deter/)  
-- **Conservation NGOs:** Employ CNN-based monitoring tools for illegal logging detection and forest management.  
-- **Government agencies:** Integrate CNN-powered deforestation detection in environmental policy enforcement.
 
 ---
 
 ## Courses and Tutorials
-- **Deep Learning for Satellite Image Analysis** by Coursera: [https://www.coursera.org/learn/deep-learning-satellite-imagery](https://www.coursera.org/learn/deep-learning-satellite-imagery)  
+- **Deep Learning for Satellite Image Analysis** by Coursera: [https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis](https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis)  
 - **Remote Sensing and Environmental Monitoring with AI** by edX: [https://www.edx.org/course/remote-sensing-environmental-monitoring](https://www.edx.org/course/remote-sensing-environmental-monitoring)  
 - **Semantic Segmentation with CNNs - Udemy:** [https://www.udemy.com/course/semantic-segmentation-with-cnn/](https://www.udemy.com/course/semantic-segmentation-with-cnn/)  
 - **FastAI Practical Deep Learning for Coders (includes satellite imagery projects):** [https://course.fast.ai/](https://course.fast.ai/)  
-- **YouTube Tutorial Series on CNNs for Remote Sensing:** [https://www.youtube.com/playlist?list=PLremoteSensingCNN](https://www.youtube.com/playlist?list=PLremoteSensingCNN) *(Example playlist)*
+- **YouTube Tutorial Series on Deep Learning for Remote Sensing:** [https://www.youtube.com/results?search_query=deep+learning+for+remote+sensing](https://www.youtube.com/results?search_query=deep+learning+for+remote+sensing)
 
 ---
 
@@ -97,7 +92,6 @@ Deforestation poses a significant threat to biodiversity, climate stability, and
 
 ## Communities and Conferences
 - **IEEE Geoscience and Remote Sensing Society (GRSS):** [https://www.grss-ieee.org/](https://www.grss-ieee.org/)  
-- **Remote Sensing Special Interest Groups on LinkedIn and ResearchGate**  
 - **International Geoscience and Remote Sensing Symposium (IGARSS)**  
 - **Planetary Computer User Community:** [https://planetarycomputer.microsoft.com/community](https://planetarycomputer.microsoft.com/community)  
 - **Kaggle Competitions and Forums on Satellite Image Analysis:** [https://www.kaggle.com/](https://www.kaggle.com/)  
