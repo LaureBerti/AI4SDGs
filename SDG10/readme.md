@@ -1,6 +1,8 @@
 # 🌍 SDG#10. Combatting Human Trafficking with Swin Transformer
 
-> An evolving list of high-quality, verified resources to empower researchers, developers, and activists to apply **Swin Transformer models in the fight against human trafficking**.  Feel free to update and contribute !
+> An evolving list of high-quality, verified resources to empower researchers, developers, and activists to apply **Swin Transformer models in the fight against human trafficking**.
+>
+> Feel free to update and contribute !
 
 ## Table of Contents
 
