@@ -24,30 +24,10 @@
 Deforestation poses a significant threat to biodiversity, climate stability, and ecosystem services worldwide. Automated detection of deforestation from satellite imagery is critical for timely monitoring and intervention. Convolutional Neural Networks (CNNs) have emerged as powerful tools in this domain due to their ability to extract complex spatial features from high-resolution images. This document provides a comprehensive resource list and guidance on CNN-based deforestation detection, covering datasets, research, tools, and applications.
 
 
-## State-of-the-Art CNN Architectures for Deforestation Detection
-- **ResNet (Residual Networks):** Enables training of very deep networks by using residual connections, improving accuracy in remote sensing tasks.  
-- **U-Net:** A widely used architecture for image segmentation that excels in pixel-wise classification, ideal for delineating deforested areas.  
-- **DenseNet:** Connects each layer to every other layer, improving feature propagation and reducing parameters, useful for detailed land cover mapping.  
-- **SegNet:** Encoder-decoder architecture designed for semantic segmentation of remote sensing imagery.  
-- **Inception Networks:** Utilizes parallel convolution filters of varying sizes to capture multi-scale spatial patterns in forest imagery.
-
 ---
 
-## Publicly Available Datasets for Deforestation Detection
-- **Global Forest Change Dataset (Hansen et al.):** Annual forest loss data from Landsat, global coverage, 30m resolution.  
-  [https://earthenginepartners.appspot.com/science-2013-global-forest](https://earthenginepartners.appspot.com/science-2013-global-forest)  
-- **Amazon Deforestation Dataset:** High-resolution Sentinel-2 imagery covering Amazon rainforest with annotated deforestation patches.  
-  [https://registry.opendata.aws/sentinel-2/](https://registry.opendata.aws/sentinel-2/)  
-- **PRODES Dataset (Brazil):** Official annual deforestation mapping dataset for the Amazon region with labeled satellite imagery.  
-  [http://terrabrasilis.dpi.inpe.br/en/home-page/](http://terrabrasilis.dpi.inpe.br/en/home-page/)  
-- **LCZ (Local Climate Zones) Dataset:** Includes urban and vegetative land cover maps suitable for forest change detection.  
-  [http://landscapepartnership.org/lcz-datasets/](http://landscapepartnership.org/lcz-datasets/)  
-- **BigEarthNet:** Large-scale Sentinel-2 image archive with multi-label land use/land cover annotations including forest classes.  
-  [https://bigearth.net/](https://bigearth.net/)
 
----
-
-## Influential Scientific Papers on CNN-based Deforestation Detection
+## Scientific Papers
 1. Hansen et al. (2013). "High-Resolution Global Maps of 21st-Century Forest Cover Change." *Science*.  
    DOI: [10.1126/science.1244693](https://doi.org/10.1126/science.1244693)  
 2. Li et al. (2020). "Deep Learning for Deforestation Detection Using Satellite Imagery." *Remote Sensing*.  
@@ -62,7 +42,21 @@ Deforestation poses a significant threat to biodiversity, climate stability, and
 
 ---
 
-## Papers with Code Repositories
+## Datasets and Benchmarks
+- **Global Forest Change Dataset (Hansen et al.):** Annual forest loss data from Landsat, global coverage, 30m resolution.  
+  [https://earthenginepartners.appspot.com/science-2013-global-forest](https://earthenginepartners.appspot.com/science-2013-global-forest)  
+- **Amazon Deforestation Dataset:** High-resolution Sentinel-2 imagery covering Amazon rainforest with annotated deforestation patches.  
+  [https://registry.opendata.aws/sentinel-2/](https://registry.opendata.aws/sentinel-2/)  
+- **PRODES Dataset (Brazil):** Official annual deforestation mapping dataset for the Amazon region with labeled satellite imagery.  
+  [http://terrabrasilis.dpi.inpe.br/en/home-page/](http://terrabrasilis.dpi.inpe.br/en/home-page/)  
+- **LCZ (Local Climate Zones) Dataset:** Includes urban and vegetative land cover maps suitable for forest change detection.  
+  [http://landscapepartnership.org/lcz-datasets/](http://landscapepartnership.org/lcz-datasets/)  
+- **BigEarthNet:** Large-scale Sentinel-2 image archive with multi-label land use/land cover annotations including forest classes.  
+  [https://bigearth.net/](https://bigearth.net/)
+
+---
+
+## Libraries and Tools
 - **DeepForest:** Open-source Python package for tree crown detection in satellite imagery based on CNNs.  
   GitHub: [https://github.com/weecology/DeepForest](https://github.com/weecology/DeepForest)  
 - **Deforestation Detection using U-Net:** Code repository with CNN-based semantic segmentation model applied to satellite images.  
@@ -70,13 +64,6 @@ Deforestation poses a significant threat to biodiversity, climate stability, and
 - **Forest Change Detection CNN:** Includes training scripts and pretrained weights for detecting forest loss from Landsat imagery.  
   GitHub: [https://github.com/example/forest-change-cnn](https://github.com/example/forest-change-cnn) *(Example repository)*  
 - Explore [Papers With Code](https://paperswithcode.com/task/deforestation-detection) for latest code-linked research.
-
----
-
-## Benchmarks, Preprocessing, and Evaluation Metrics
-- **Benchmarks:** Use standard datasets like Global Forest Change for benchmarking model performance.  
-- **Preprocessing:** Includes cloud masking, atmospheric correction, image normalization, and data augmentation.  
-- **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score, Intersection over Union (IoU), and Area Under the ROC Curve (AUC) for segmentation tasks.
 
 ---
 
