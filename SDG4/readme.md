@@ -1,18 +1,35 @@
 
-# 🌟 Awesome Personalization of Conversational Tutoring Systems with LLMs
+# 🌍 SDG#4. Personalization of Conversational Tutoring Systems with LLMs
 
-> A curated list of resources, tools, datasets, and knowledge to master the design and development of **personalized conversational tutoring systems using Large Language Models (LLMs)**.  
-> Inspired by the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
+> A evolving list of resources, tools, datasets, papers, and communities focused on the design and development of **personalized conversational tutoring systems using Large Language Models (LLMs)**.  
+
+> Feel free to update and contribute !
 
 ---
 
-## 🧠 Introduction
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Scientific Papers](#scientific-papers)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Libraries and Tools](#libraries-and-tools)
+- [Use Cases](#use-cases)
+- [Courses and Tutorials](#courses-and-tutorials)
+- [Books](#books)
+- [Communities and Conferences](#communities-and-conferences)
+- [Conclusion](#conclusion)
+
+---
+
+
+
+## Introduction
 
 Personalized conversational tutoring systems represent the convergence of AI, education, and user modeling. They tailor instructional content and interactions based on a learner's unique background, preferences, and progress. With the advent of Large Language Models (LLMs), these systems can now deliver highly adaptive, naturalistic, and pedagogically informed dialogues at scale.
 
 ---
 
-## 📚 Surveys & Reviews
+## Scientific Papers
 
 1. **A Survey on Intelligent Tutoring Systems** (2022) - [DOI](https://doi.org/10.1016/j.chb.2022.107374)
 2. **A Survey of Adaptive Learning Systems Based on Machine Learning** (2021) - [arXiv](https://arxiv.org/abs/2107.03046)
@@ -20,23 +37,13 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 4. **Large Language Models for Education: A Survey** (2023) - [arXiv](https://arxiv.org/abs/2303.03094)
 5. **Review of Reinforcement Learning for Personalized Education** (2022) - [arXiv](https://arxiv.org/abs/2204.12573)
 
----
 
-## 📄 Scientific Papers
-
-### 🔑 Anchor Papers
 1. Chi et al. (2011), "Empirically Evaluating the Application of Reinforcement Learning to the Personalization of an Intelligent Tutoring System" - [DOI](https://doi.org/10.1007/s40593-011-0001-1)
 2. Piech et al. (2015), "Deep Knowledge Tracing" - [arXiv](https://arxiv.org/abs/1506.05908)
 3. Nye et al. (2021), "How Should AI Be Used in Education?" - [DOI](https://doi.org/10.1007/s40593-021-00270-w)
 4. Holmes et al. (2019), "Ethics of AI in Education: Towards a Community-Wide Framework" - [DOI](https://doi.org/10.1007/s40593-019-00178-1)
 5. Rus et al. (2017), "Conversational Agents for Intelligent Tutoring Systems: A Review" - [DOI](https://doi.org/10.1016/j.chb.2017.04.015)
 
-### 🧬 Related Works
-(Linked to each anchor paper via [ResearchRabbit](https://researchrabbitapp.com) or [SciSpace](https://scispace.com), with titles and DOIs in full Awesome version.)
-
----
-
-## 💻 Papers With Code
 
 1. **Personalized Curriculum Learning with Transformers** - [GitHub](https://github.com/INK-USC/Personalized-Curriculum)
 2. **Deep Knowledge Tracing with Code** - [GitHub](https://github.com/chrispiech/DeepKnowledgeTracing)
@@ -46,7 +53,7 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ---
 
-## 🧪 Datasets & Benchmarks
+## Datasets and Benchmarks
 
 1. **ASSISTments Dataset** – Student interactions on math problems - [Hugging Face](https://huggingface.co/datasets/assistments)
 2. **EdNet** – Massive dataset of student learning logs - [GitHub](https://github.com/riiid/ednet)
@@ -56,7 +63,7 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ---
 
-## 🛠️ Pre-trained Models & Frameworks
+## Libraries and Tools
 
 1. **Khanmigo (based on GPT-4)** - [Khan Academy](https://www.khanacademy.org/)
 2. **HuggingFace Transformers for Dialogue Agents** - [Hugging Face](https://huggingface.co/models)
@@ -66,7 +73,7 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ---
 
-## 🌍 Real-World Use Cases
+## Use Cases
 
 1. **Squirrel AI** – Adaptive LLM-powered tutoring for K-12 in China - [Website](https://squirrelai.com/)
 2. **Khanmigo by Khan Academy** – GPT-4-powered tutor - [Link](https://www.khanacademy.org/khan-labs)
@@ -76,7 +83,7 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ---
 
-## 🎓 Courses & Tutorials
+## Courses and Tutorials
 
 1. **LLMs in Education – Coursera** - [Link](https://www.coursera.org/)
 2. **Building Intelligent Tutors with Python – edX** - [Link](https://www.edx.org/)
@@ -86,7 +93,7 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ---
 
-## 📘 Books
+## Books
 
 1. Woolf, B. P. (2009). *Building Intelligent Interactive Tutors* - [Springer](https://link.springer.com/book/10.1007/978-0-12-373594-2)
 2. Koedinger et al. (2023). *Learning Engineering for Online Education* - [Amazon](https://www.amazon.com/)
@@ -96,7 +103,7 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ---
 
-## 💬 Communities & Conferences
+## Communities and Conferences
 
 1. **AIED (Artificial Intelligence in Education)** - [Website](https://iaied.org/)
 2. **EDM (Educational Data Mining)** - [Website](https://educationaldatamining.org/)
@@ -106,13 +113,11 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 Personalized conversational tutoring systems, powered by LLMs, have the potential to democratize education like never before. They can adapt to each student’s learning pace, offer multilingual support, and scale across diverse curricula.
 
-Researchers and developers must now explore **ethical personalization**, **fairness in adaptive feedback**, and **multimodal student modeling**. The tools, papers, and projects above provide everything needed to contribute meaningfully to this transformative field.
-
-> 💡 *“Education is the most powerful weapon which you can use to change the world.” – Nelson Mandela*
+Researchers and developers must now explore **ethical personalization**, **fairness in adaptive feedback**, and **multimodal student modeling**. The tools, papers, and projects above intend to contribute meaningfully to this transformative field.
 
 ---
 
