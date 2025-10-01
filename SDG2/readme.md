@@ -1,104 +1,110 @@
 
-# 🌾 Awesome Crop Disease Detection with Pre-Trained Networks and Ensemble Learning
+# 🌍 SDG#2. Crop Disease Detection with Pre-Trained Networks and Ensemble Learning
 
-## 📘 Introduction
+An evolving list of resources, tools, datasets, papers, and communities focused on **crop disease detection using deep learning**. This collection aims to empower marine scientists, machine learning researchers, conservationists, and students to leverage cutting-edge AI for coral reef monitoring and protection.
 
-Crop disease detection is the application of machine learning and computer vision to identify plant pathologies using images. The accurate and timely diagnosis of plant diseases is vital to global food security, especially in resource-limited settings. Pre-trained deep learning models and ensemble methods significantly boost detection accuracy by transferring knowledge from large datasets and combining the strengths of multiple models. This Awesome List curates resources on how cutting-edge AI can empower agriculture through smart disease management.
-
----
-
-## 📚 Surveys & Literature Reviews
-
-1. [A Comprehensive Review of Deep Learning in Plant Disease Detection](https://www.sciencedirect.com/science/article/pii/S0168169921003829) - Mohanty et al., 2021
-2. [Deep Learning Techniques for Plant Disease Detection: A Review](https://arxiv.org/abs/2012.13135) - Picon et al., 2020
-3. [Machine Learning for Plant Disease Detection: Survey with a Focus on Datasets](https://www.sciencedirect.com/science/article/pii/S1364815220304421) - Kamilaris & Prenafeta-Boldú, 2020
-4. [Ensemble Deep Learning for Plant Disease Detection and Classification](https://link.springer.com/article/10.1007/s00500-020-05472-x) - Brahimi et al., 2020
-5. [A Survey on Transfer Learning for Plant Disease Recognition](https://www.sciencedirect.com/science/article/abs/pii/S2352914821001243) - Ferentinos, 2021
+> Feel free to update and contribute !
 
 ---
 
-## 🧠 Key Scientific Papers + Related Works
+## Table of Contents
 
-**Anchor Papers:**
+- [Introduction](#introduction)
+- [Scientific Papers](#scientific-papers)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Libraries and Tools](#libraries-and-tools)
+- [Use Cases](#use-cases)
+- [Courses and Tutorials](#courses-and-tutorials)
+- [Books](#books)
+- [Communities and Conferences](#communities-and-conferences)
+- [Conclusion](#conclusion)
 
-1. [Using Deep Learning for Image-Based Plant Disease Detection](https://arxiv.org/abs/1604.03169) - Mohanty et al., 2016  
-2. [Plant Disease Detection Using Ensembles of Deep Convolutional Neural Networks](https://doi.org/10.1016/j.compag.2020.105595) - Abbas et al., 2020  
-3. [Data-Efficient Plant Disease Classification with Few-Shot Learning](https://arxiv.org/abs/2103.15975) - Lu et al., 2021  
-4. [Attention-based Disease Identification in Leaves](https://doi.org/10.1016/j.compag.2022.106069)  
-5. [Multi-class Plant Disease Detection from Leaf Images](https://www.mdpi.com/2076-3417/9/5/948) - Too et al., 2019
+---
+## Introduction
+
+Crop disease detection is the application of machine learning and computer vision to identify plant pathologies using images. The accurate and timely diagnosis of plant diseases is vital to global food security, especially in resource-limited settings. Pre-trained deep learning models and ensemble methods significantly boost detection accuracy by transferring knowledge from large datasets and combining the strengths of multiple models. 
 
 ---
 
-## 🧪 Papers With Code
+## Scientific Papers
 
-1. [Plant Disease Detection using Vision Transformers](https://paperswithcode.com/paper/a-lightweight-attention-based-convolutional)  
-2. [Ensemble CNN Models for Plant Leaf Disease Detection](https://paperswithcode.com/paper/an-efficient-deep-learning-model-to-detect)
-3. [Few-Shot Plant Disease Recognition](https://paperswithcode.com/paper/few-shot-plant-disease-recognition-via)  
-4. [YOLO-PD: Lightweight Detection of Leaf Disease](https://paperswithcode.com/paper/yolo-pd-a-lightweight-detection-model-for)
-5. [PlantDoc: A Dataset for Real-Life Disease Detection](https://paperswithcode.com/paper/plantdoc-a-dataset-for-real-life-plant-disease)
+- [Deep learning models for plant disease detection and diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0168169917311742) - K.P. Ferentinos, 2018
+- [Performance analysis of deep learning CNN models for disease detection in plants using image segmentation](https://www.sciencedirect.com/science/article/pii/S2214317319301957) - P. Sharma, Y.P. Singh Berwal, W. Ghai, 2020
+- [Automated plant leaf disease detection and classification using optimal MobileNet based convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S2214785321042115) - S. Ashwinkumar, et al., 2022
+- [A robust deep attention dense convolutional neural network for plant leaf disease identification and classification from smart phone captured real world images](https://www.sciencedirect.com/science/article/abs/pii/S1574954122001753) - A. Pandey and J. Jain, 2022
+- [A survey on using deep learning techniques for plant disease diagnosis and recommendations for development of appropriate tools](https://www.sciencedirect.com/science/article/pii/S277237552200048X) - A. Ahmad,  D. Saraswat, A. El Gamal, 2023
+- [Plant disease detection using hybrid model based on convolutional autoencoder and convolutional neural network] - P. Bedi and P. Gole, 2021
+- [Cross-comparative review of Machine learning for plant disease detection: apple, cassava, cotton and potato plants](https://www.sciencedirect.com/science/article/pii/S258972172400014X) - J.D. Omaye, et al. 2024
+- [An ensemble of deep learning architectures for accurate plant disease classification](https://www.sciencedirect.com/science/article/pii/S1574954124001602) - A.H. Ali, et al., 2024
+- [Plant disease recognition in a low data scenario using few-shot learning](https://www.sciencedirect.com/science/article/pii/S0168169924002035) - M. Rezaei, et al., 2024
+- [Using Deep Learning for Image-Based Plant Disease Detection](https://arxiv.org/abs/1604.03169) - Mohanty et al., 2016  
+- [Plant leaf disease detection and classification using convolution neural networks model: a review](https://link.springer.com/article/10.1007/s10462-025-11234-6) - T.D. Salka, et al., 2025
+- [PlantCaFo: An efficient few-shot plant disease recognition method based on foundation models](https://www.sciencedirect.com/science/article/pii/S2643651525000305) - X. Jiang, et al., 2025
+- [A novel attention based vision transformer optimized with hybrid optimization algorithm for turmeric leaf disease detection](https://www.nature.com/articles/s41598-025-02185-7) - R. Selvaraj and M. S. Geetha Devasena, 2025  
+- [Multi-Class Classification of Plant Leaf Diseases Using Feature Fusion of Deep Convolutional Neural Network and Local Binary Pattern](https://ieeexplore.ieee.org/document/10153610) - K.M. Hosny, et al., 2023
+- [Multi-Class Plant Leaf Disease Detection: A CNN-based Approach with Mobile App Integration](https://www.ijcaonline.org/archives/volume186/number41/foysal-2024-ijca-924026.pdf) - A.H. Foysal, F. Ahmed, Z. Haque, 2024
+---
+
+## Datasets and Benchmarks
+
+- [PlantVillage Dataset](https://www.tensorflow.org/datasets/catalog/plant_village?hl=fr) - 54,000+ labeled leaf images  
+- [PlantDoc Dataset](https://github.com/pratikkayal/PlantDoc-Dataset) - Real-world disease symptoms
+- [FieldPlant](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10086516)
+- [AI Challenger 2018 Crop Disease Dataset](https://github.com/AIChallenger/)  
+- [Leaf Disease Image Dataset (Kaggle)](https://www.kaggle.com/search?q=plant+disease)
+- [iBean](https://www.tensorflow.org/datasets/catalog/beans?hl=fr)
 
 ---
 
-## 🛰️ Datasets & Benchmarks
+## Libraries and Tools
 
-1. [PlantVillage Dataset](https://www.kaggle.com/emmarex/plantdisease) - 54,000+ labeled leaf images  
-2. [PlantDoc Dataset](https://github.com/pratikkayal/PlantDoc-Dataset) - Real-world disease symptoms  
-3. [AI Challenger 2018 Crop Disease Dataset](https://challenger.ai/dataset/ai2018-task2)  
-4. [Leaf Disease Image Dataset (Kaggle)](https://www.kaggle.com/codeinstitute/leaf-disease-dataset)  
-5. [Cassava Leaf Disease Dataset](https://www.kaggle.com/c/cassava-leaf-disease-classification/data)
-
----
-
-## 🧰 Pre-trained Models & Frameworks
-
-1. [PlantVillage Disease Detection - TensorFlow](https://github.com/spMohanty/PlantVillage-Dataset)  
-2. [Hugging Face - Leaf Transformer Classifier](https://huggingface.co/transformers/)  
-3. [PyTorch Leaf Disease CNN](https://github.com/llSourcell/How_to_simulate_a_self_driving_car)  
-4. [Cassava Leaf Disease Classifier](https://github.com/Shreyas3108/Cassava-Leaf-Disease-Classification)  
-5. [AgriNet - Agricultural CNN Models](https://github.com/AI-Lab-Makerere/AgriNet)
+- [PlantVillage Disease Detection - TensorFlow](https://github.com/spMohanty/PlantVillage-Dataset)
+- https://github.com/kozodoi/Kaggle_Leaf_Disease_Classification
+- [Hugging Face - Leaf Transformer Classifier](https://huggingface.co/wambugu71/crop_leaf_diseases_vit)  
+- [PyTorch Leaf Disease CNN](https://www.kaggle.com/code/sayedgamal99/plant-disease-classifier-pytorch-custom-cnn)  
+- [Cassava Leaf Disease Classifier](https://github.com/kozodoi/Kaggle_Leaf_Disease_Classification)  
+- [AgNet - Agricultural CNN Models](https://github.com/ESIPFed/Ag-Net)
 
 ---
 
-## 🌍 Real-World Use Cases
+## Use Cases
 
-1. [PlantVillage Nuru App](https://www.plantvillage.psu.edu/) – AI-driven disease diagnosis for farmers  
-2. [FAO e-Agriculture Toolkit](http://www.fao.org/e-agriculture/)  
-3. [UN World Food Programme - AI for Food Security](https://innovation.wfp.org/)  
-4. [Plantix Mobile App](https://plantix.net/en/)  
-5. [AI Sensing at iRAP Uganda](https://irap.org)
-
----
-
-## 🎓 Courses & Tutorials
-
-1. [Deep Learning for Plant Disease Detection (Coursera)](https://www.coursera.org/learn/neural-networks-deep-learning)  
-2. [Transfer Learning with PyTorch (YouTube)](https://www.youtube.com/watch?v=0cmqFyNp27I)  
-3. [Plant Disease Detection with TensorFlow](https://www.tensorflow.org/tutorials/images/classification)  
-4. [Udemy: AI in Precision Agriculture](https://www.udemy.com/course/precision-agriculture/)  
-5. [FastAI: Image Classification Tutorial](https://course.fast.ai/)
+- [Pl@ntNet](https://plantnet.org/en/)
+- [PlantVillage Nuru App](https://www.plantvillage.psu.edu/) – AI-driven disease diagnosis for farmers  
+- [FAO e-Agriculture Toolkit](http://www.fao.org/e-agriculture/)  
+- [UN World Food Programme - AI for Food Security](https://innovation.wfp.org/)  
+- [Plantix Mobile App](https://plantix.net/en/)  
+- [AI Sensing at iRAP Uganda](https://irap.org)
 
 ---
 
-## 📚 Books
+## 🎓 Courses and Tutorials
 
-1. *Plant Pathology* by George N. Agrios – [Amazon](https://www.amazon.com/Plant-Pathology-George-N-Agrios/dp/0120445654)  
-2. *Deep Learning for Vision Systems* by Mohamed Elgendy – [Amazon](https://www.amazon.com/Deep-Learning-Vision-Systems-End/dp/1617296198)  
-3. *Data Science in Agriculture* by Tamás Mészáros – [Springer](https://link.springer.com/book/10.1007/978-3-030-42651-7)  
-4. *Computer Vision in Plant Science* – [Elsevier](https://www.elsevier.com/books/computer-vision-in-plant-science)  
-5. *Ensemble Methods in Machine Learning* – [Springer](https://link.springer.com/chapter/10.1007/3-540-45014-9_1)
-
----
-
-## 🤝 Communities & Conferences
-
-1. [CVPR EarthVision Workshop](https://www.earthvision.site/)  
-2. [AI for Good (ITU)](https://aiforgood.itu.int/)  
-3. [PlantVillage Slack](https://plantvillage.psu.edu/)  
-4. [AI4Ag Community (CGIAR)](https://www.cgiar.org/initiative/ai4agriculture/)  
-5. [NeurIPS Workshops on Agriculture](https://neurips.cc/Conferences)
+- [Deep Learning for Plant Disease Detection (YouTube)](https://www.youtube.com/results?search_query=Deep+Learning+for+Plant+Disease+Detection)  
+- [Plant Disease Detection with TensorFlow](https://www.tensorflow.org/tutorials/images/classification)  
+- [Udemy: AI in Agriculture](https://www.udemy.com/course/ai-in-agriculture/)  
+- [FastAI: Image Classification Tutorial](https://docs.fast.ai/tutorial.vision.html)
 
 ---
 
-## 🌱 Conclusion
+##  Books
+
+- *Plant Pathology* by George N. Agrios – [Amazon](https://www.amazon.com/Plant-Pathology-George-N-Agrios/dp/0120445654)  
+- *Deep Learning for Vision Systems* by Mohamed Elgendy – [Amazon](https://www.amazon.com/Deep-Learning-Vision-Systems-End/dp/1617296198)  
+- *Data Science in Agriculture and Natural resource Management* by G. P. Obi Reddy et al. – [Springer](https://link.springer.com/book/10.1007/978-981-16-5847-1)  
+- *Computer Vision and Machine Learning in Agriculture* –   M.S. Uddin, J.C. Bansal (Eds) [Springer](https://link.springer.com/book/10.1007/978-981-33-6424-0)
+
+---
+
+## Communities and Conferences
+
+- [AI for Good (ITU)](https://aiforgood.itu.int/)  
+- [PlantVillage Blog](https://plantvillage.psu.edu/blogposts)  
+- [AI4Ag Community (CGIAR)](https://www.cgiar.org/?s=ai+for+agriculture)  
+- [NeurIPS Workshops on Agriculture](https://neurips.cc/Conferences)
+
+---
+
+## Conclusion
 
 AI-powered crop disease detection is essential for transforming agriculture into a more resilient and efficient system. Pre-trained networks reduce the need for large annotated datasets, while ensemble learning improves generalization and robustness. The fusion of computer vision with plant pathology is not only technical progress — it’s a tool for empowering millions of farmers and ensuring global food security. Future research should explore mobile-friendly inference, multimodal fusion (e.g., satellite imagery + drone + soil sensors), explainability in model outputs, and global collaborative datasets that drive better results for all.
