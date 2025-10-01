@@ -1,4 +1,3 @@
-
 # 🌍 SDG#2. Crop Disease Detection with Pre-Trained Networks and Ensemble Learning
 
 An evolving list of resources, tools, datasets, papers, and communities focused on **crop disease detection using deep learning**. This collection aims to empower marine scientists, machine learning researchers, conservationists, and students to leverage cutting-edge AI for coral reef monitoring and protection.
