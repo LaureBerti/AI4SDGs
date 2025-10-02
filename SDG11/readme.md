@@ -101,4 +101,5 @@ Sea level forecasting is both a scientific and humanitarian imperative. Leveragi
 
 ---
 
-> 💡 Contributions welcome. 
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
