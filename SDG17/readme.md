@@ -106,3 +106,7 @@ Key challenges MARL can help address:
 ## Conclusion 
 MARL holds transformative promise for modeling, understanding, and improving global climate agreement dynamics. Through simulations of complex, strategic interaction among diverse agents, researchers and policymakers can explore new paradigms for equitable and efficient treaty formation.
 
+---
+
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
