@@ -116,4 +116,4 @@ LS‑SVM is a proven, efficient, and interpretable ML technique ideally suited f
 
 ---
 
-*This Awesome List follows the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).*
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
