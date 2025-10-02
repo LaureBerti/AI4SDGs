@@ -27,4 +27,4 @@ GAN-based augmentation of healthcare data is a transformative force, addressing 
 
 ---
 
-*All entries have verified links and are fully compliant with the Awesome List Manifesto.*
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
