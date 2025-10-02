@@ -179,4 +179,5 @@ Keep exploring. Keep building. Flood resilience depends on it.
 
 ---
 
-> Maintained with ❤️ by the open-source community. Contributions welcome!
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
