@@ -104,3 +104,6 @@ Detecting deforestation through CNNs applied to satellite imagery is a transform
 
 ---
 
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
+
