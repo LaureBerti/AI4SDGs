@@ -31,55 +31,47 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ## Scientific Papers
 
-1. **A Survey on Intelligent Tutoring Systems** (2022) - [DOI](https://doi.org/10.1016/j.chb.2022.107374)
-2. **A Survey of Adaptive Learning Systems Based on Machine Learning** (2021) - [arXiv](https://arxiv.org/abs/2107.03046)
-3. **Dialogue-Based Intelligent Tutoring Systems: A Review** (2020) - [DOI](https://doi.org/10.1016/j.chb.2020.106560)
-4. **Large Language Models for Education: A Survey** (2023) - [arXiv](https://arxiv.org/abs/2303.03094)
-5. **Review of Reinforcement Learning for Personalized Education** (2022) - [arXiv](https://arxiv.org/abs/2204.12573)
-
-
-1. Chi et al. (2011), "Empirically Evaluating the Application of Reinforcement Learning to the Personalization of an Intelligent Tutoring System" - [DOI](https://doi.org/10.1007/s40593-011-0001-1)
-2. Piech et al. (2015), "Deep Knowledge Tracing" - [arXiv](https://arxiv.org/abs/1506.05908)
-3. Nye et al. (2021), "How Should AI Be Used in Education?" - [DOI](https://doi.org/10.1007/s40593-021-00270-w)
-4. Holmes et al. (2019), "Ethics of AI in Education: Towards a Community-Wide Framework" - [DOI](https://doi.org/10.1007/s40593-019-00178-1)
-5. Rus et al. (2017), "Conversational Agents for Intelligent Tutoring Systems: A Review" - [DOI](https://doi.org/10.1016/j.chb.2017.04.015)
-
-
-1. **Personalized Curriculum Learning with Transformers** - [GitHub](https://github.com/INK-USC/Personalized-Curriculum)
-2. **Deep Knowledge Tracing with Code** - [GitHub](https://github.com/chrispiech/DeepKnowledgeTracing)
-3. **EduChat: A Large-scale Chinese Dialogue Dataset for Educational Chatbots** - [GitHub](https://github.com/huawei-noah/EduChat)
-4. **MindReader: Modeling Student Knowledge with Transformers** - [GitHub](https://github.com/mindreader-ai/transformer-model)
-5. **Prompt-tuned LLM for EdTech** - [GitHub](https://github.com/openedtech/PromptEd)
+- [**Deep learning based knowledge tracing in intelligent tutoring systems**](https://www.nature.com/articles/s41598-025-07422-7?fromPaywallRec=false) by X. Zhou et al., (2025)
+- [**Adaptive Learning through Artificial Intelligence**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4514887) by M.A. Joshi (2024) 
+-  [**Artificial intelligence in education: A systematic literature review**](https://www.sciencedirect.com/science/article/pii/S0957417424010339) by S. Wang et al., (2024)
+-  [**Large Language Models for Education: A Survey**](https://arxiv.org/abs/2405.13001) by H. Xu et al., (2024)
+-  [**Intelligent tutoring systems and conversational agents**]([https://doi.org/10.1016/j.chb.2017.04.015](https://www.sciencedirect.com/science/article/abs/pii/B9780128186305140758?via%3Dihub) by A.C. Graesser and H. Li (2023)
+- [**A scoping review of reinforcement learning in education**](https://www.sciencedirect.com/science/article/pii/S2666557324000168?via%3Dihub) by Bahar Memarian, Tenzin Doleck (2022)
+- [**A Survey on Intelligent Tutoring Systems**](https://www.sciencedirect.com/science/article/abs/pii/B9780934613675500058) by B. Woolf (2022)
+- [**Ethics of AI in Education: Towards a Community-Wide Framework**](https://link.springer.com/article/10.1007/s40593-021-00239-1) by Holmes et al. (2022)
+- [**A Systematic Literature Review of Intelligent Tutoring Systems With Dialogue in Natural Language**](https://ieeexplore.ieee.org/document/9186073) by J. Paladines and J. Ramirez (2020)
+- [**A Review on Techniques, Characteristics and approaches of an intelligent tutoring Chatbot system**](https://ieeexplore.ieee.org/document/9299583) by M.W. Ashfaque et al., (2020)
+- [**Empirically Evaluating the Application of Reinforcement Learning to the Personalization of an Intelligent Tutoring System**](https://link.springer.com/article/10.1007/s11257-010-9093-1) by Chi et al. (2011)
+- [**EduChat: A Large-scale Chinese Dialogue Dataset for Educational Chatbots**](https://arxiv.org/pdf/2009.13284) by H. Qian, et al., (2021)
 
 ---
 
 ## Datasets and Benchmarks
 
-1. **ASSISTments Dataset** – Student interactions on math problems - [Hugging Face](https://huggingface.co/datasets/assistments)
-2. **EdNet** – Massive dataset of student learning logs - [GitHub](https://github.com/riiid/ednet)
-3. **KDD Cup 2010 Educational Dataset** – [UCI](https://archive.ics.uci.edu/ml/datasets/KDD+Cup+2010+Educational+Data+Mining+Challenge)
-4. **TutorBot Dialogue Corpus** – [GitHub](https://github.com/edtech-nlp/tutorbot-corpus)
-5. **Socratic Dialogues from OpenAssistant** – [GitHub](https://github.com/LAION-AI/Open-Assistant)
+- [**ASSISTments Dataset**](https://www.kaggle.com/datasets/nicolaswattiez/skillbuilder-data-2009-2010](https://sites.google.com/site/assistmentsdata/home) – Student interactions on math problems
+- [**SAILData AIMA4EDU Workshop Dataset**](https://github.com/RyanH98/SAILData)
+- [**EdNet**](https://github.com/riiid/ednet) – Massive dataset of student learning logs
+- [**KDD Cup 2010 Educational Dataset**](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp)
+- [**TutorBot Spock**](https://github.com/luffycodes/Tutorbot-Spock)
+- [**OpenAssistant**](https://github.com/LAION-AI/Open-Assistant)
 
 ---
 
 ## Libraries and Tools
 
-1. **Khanmigo (based on GPT-4)** - [Khan Academy](https://www.khanacademy.org/)
-2. **HuggingFace Transformers for Dialogue Agents** - [Hugging Face](https://huggingface.co/models)
-3. **OpenAI GPT-4 APIs for tutoring** - [OpenAI](https://platform.openai.com/)
-4. **Rasa for Education Chatbots** - [Rasa](https://rasa.com/)
-5. **DialogStudio** - [GitHub](https://github.com/usc-sail/dialogstudio)
-
+- [**HuggingFace Transformers for Dialogue Agents**](https://huggingface.co/blog/dialog-agents)
+- [**OpenAI GPT-4 APIs for tutoring**](https://platform.openai.com/)
+- [**Rasa for Education Chatbots**](https://ieeexplore.ieee.org/document/10883243)
+- [**DialogStudio**](https://github.com/salesforce/DialogStudio)
+- [**Socrat.AI**](https://socrat.ai/)
 ---
 
 ## Use Cases
 
-1. **Squirrel AI** – Adaptive LLM-powered tutoring for K-12 in China - [Website](https://squirrelai.com/)
-2. **Khanmigo by Khan Academy** – GPT-4-powered tutor - [Link](https://www.khanacademy.org/khan-labs)
-3. **ASSISTments Project** – [Website](https://new.assistments.org/)
-4. **Edmentum Adaptive Curriculum** – [Website](https://www.edmentum.com/)
-5. **Duolingo Max** – AI tutor mode powered by GPT-4 - [Website](https://blog.duolingo.com/introducing-duolingo-max/)
+- **Squirrel AI** – Adaptive LLM-powered tutoring for K-12 in China - [Website](https://squirrelai.com/)
+- **Khanmigo by Khan Academy** – GPT-4-powered tutor - [Link](https://www.khanacademy.org/khan-labs)
+- **ASSISTments Project** – [Website](https://new.assistments.org/)
+- **Edmentum Adaptive Curriculum** – [Website](https://www.edmentum.com/)
 
 ---
 
@@ -95,21 +87,19 @@ Personalized conversational tutoring systems represent the convergence of AI, ed
 
 ## Books
 
-1. Woolf, B. P. (2009). *Building Intelligent Interactive Tutors* - [Springer](https://link.springer.com/book/10.1007/978-0-12-373594-2)
-2. Koedinger et al. (2023). *Learning Engineering for Online Education* - [Amazon](https://www.amazon.com/)
-3. VanLehn, K. (2006). *The Behavior of Tutoring Systems* - [PDF](https://www.public.asu.edu/~kvanlehn/)
-4. Luckin, R. (2018). *Machine Learning and Human Intelligence* - [Routledge](https://www.routledge.com/)
-5. Graesser, A. C. (2016). *Conversational Agents and Natural Language in Learning* - [DOI](https://doi.org/10.1007/978-3-319-23434-8)
+- Woolf, B. P. (2009). *Building Intelligent Interactive Tutors* - [Elsevier Inc. All](https://www.sciencedirect.com/book/9780123735942/building-intelligent-interactive-tutors)
+- Koedinger et al. (2023). *Learning Engineering for Online Education* - [DOI](https://doi.org/10.37074/jalt.2019.2.2.17)
+- VanLehn, K. (2006). *The Behavior of Tutoring Systems* - [PDF](https://cs.uky.edu/~sgware/reading/papers/vanlehn2006behavior.pdf)
+- Luckin, R. (2018). *Machine Learning and Human Intelligence* - [PDF]([https://www.routledge.com/](https://discovery.ucl.ac.uk/id/eprint/10178695/1/Machine%20Learning%20and%20Human%20Intelligence.pdf))
 
 ---
 
 ## Communities and Conferences
 
-1. **AIED (Artificial Intelligence in Education)** - [Website](https://iaied.org/)
-2. **EDM (Educational Data Mining)** - [Website](https://educationaldatamining.org/)
-3. **ACL SIGEDU** – NLP in Education SIG - [Website](https://sig-edu.org/)
-4. **Learning Engineering Google Group** - [Link](https://groups.google.com/g/learning-engineering)
-5. **Learning Engineering Weekly Newsletter** - [Substack](https://learningengineering.substack.com/)
+- **AIED (Artificial Intelligence in Education)** - [Website](https://iaied.org/)
+- **EDM (Educational Data Mining)** - [Website](https://educationaldatamining.org/)
+- **ACL SIGEDU** – NLP in Education SIG - [Website](https://sig-edu.org/)
+- **Learning Engineering Google Group** - [Link](https://groups.google.com/g/learning-engineering/about)
 
 ---
 
