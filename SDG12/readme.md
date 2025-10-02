@@ -107,3 +107,6 @@ Zero-shot learning with CLIP offers a scalable, label-efficient approach for add
 There’s immense potential in expanding open datasets, fine-tuning CLIP for recycling scenarios, and integrating multimodal feedback into sorting infrastructure. Keep exploring, keep experimenting — and be part of building smarter, cleaner, AI-powered systems for the planet.
 
 ---
+
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
