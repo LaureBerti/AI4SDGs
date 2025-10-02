@@ -158,5 +158,7 @@ By joining AI advances with marine ecology, we empower conservationists worldwid
 
 ---
 
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
 
 
