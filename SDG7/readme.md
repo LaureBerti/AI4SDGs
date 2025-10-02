@@ -106,12 +106,6 @@ The use of Deep Reinforcement Learning for energy control and scheduling is no l
 - **How can federated learning be integrated into DRL for distributed energy networks?**
 - **How to make DRL energy-efficient itself?**
 
-Keep exploring. Keep building. The energy revolution is just beginning.
-
 ---
 
-**🧷 Contribute**: If you find a useful resource, open a PR and help expand this list!
-
-**🛠 Maintained by**: [Your Name or Organization]
-
-**🧭 License**: [Creative Commons or MIT]
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
