@@ -147,3 +147,6 @@ Acoustic biodiversity assessment is not only a technological challenge, but a mi
 Get involved, contribute to open datasets, and help shape the future of sound-driven biodiversity science.
 
 ---
+
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
