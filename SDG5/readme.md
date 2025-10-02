@@ -81,3 +81,9 @@ Bidirectional Gated Recurrent Units (GRUs) Model**](https://arxiv.org/pdf/2404.1
 
 ## Conclusion
 The detection of gender-based violence in social media text, particularly tweets, using attention-based Bi-GRU models is a rapidly evolving area with significant social impact. This list provides a structured pathway through surveys, key papers, datasets, code repositories, and community resources to empower researchers and practitioners to advance in this vital domain. Continued exploration and innovation in this area hold great promise for improving social safety and awareness worldwide.
+
+
+---
+
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
