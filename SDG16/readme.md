@@ -26,89 +26,82 @@ Predicting social conflicts—ranging from protests and civil unrest to broader 
 
 ## Scientific Papers
 
-1. [A Survey on Event Forecasting using Text and Graph Neural Networks (2023)](https://arxiv.org/abs/2303.00105)
-2. [Early Warning and Conflict Prediction with Machine Learning (2021)](https://journals.sagepub.com/doi/full/10.1177/0022343321995540)
-3. [Graph Neural Networks: A Review of Methods and Applications (2021)](https://arxiv.org/abs/1812.08434)
-4. [Deep Learning for Political Science (2020)](https://www.annualreviews.org/doi/10.1146/annurev-polisci-052918-020807)
-5. [Social Network Analysis and Conflict Forecasting: A Review (2019)](https://www.cambridge.org/core/journals/international-organization/article/abs/forecasting-political-conflict-and-violence/)
-
-1. **[Graph Neural Networks for Predicting Social Unrest (2022)](https://arxiv.org/abs/2206.04533)** - Nguyen et al. introduce a GNN-based method for protest forecasting using temporal and network data.  
-2. **[Forecasting Protests with GNNs and News Data (2021)](https://aclanthology.org/2021.acl-long.498/)** - Explores social signals and graph dynamics for unrest prediction.  
-3. **[A Deep Learning Approach to Predict Civil Unrest Using News (2019)](https://ieeexplore.ieee.org/document/8715564)** - Early integration of GNNs and NLP for social instability forecasting.  
-4. **[Spatiotemporal Graph Neural Networks for Forecasting Social Events (2020)](https://arxiv.org/abs/2001.03055)**  
-5. **[Using Heterogeneous Graphs for Protest Prediction (2022)](https://arxiv.org/abs/2205.09845)** - GNNs on event networks, embeddings, and hybrid architectures.
-
+- [A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection (2024)](https://www.computer.org/csdl/journal/tp/2024/12/10636792/1ZqVmrBY0Vy)
+- [Advances in Human Event Modeling: From Graph Neural Networks to Language Models (2024)](https://dl.acm.org/doi/pdf/10.1145/3637528.3671466)
+- [The promise of machine learning in violent conflict forecasting (2024)](https://www.cambridge.org/core/journals/data-and-policy/article/promise-of-machine-learning-in-violent-conflict-forecasting/40D559ADA18FF7308915B08956B4E8F3)
+- [A Model for Conflicts’ Prediction using Deep Neural Network (2021)](https://www.ijcaonline.org/archives/volume183/number29/olaide-2021-ijca-921667.pdf)
+- [Graph Neural Networks: A Review of Methods and Applications (2020)](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
+- [Deep Learning for Political Science (2020)](https://arxiv.org/abs/2005.06540)
+- [Civil Unrest Event Forecasting Using Graphical and Sequential Neural Networkst (2021)](https://link.springer.com/chapter/10.1007/978-3-030-86365-4_16).  
+- [Predicting armed conflict using protest data (2025)](https://uu.diva-portal.org/smash/get/diva2:1818026/FULLTEXT01.pdf) 
+- [A Survey on Societal Event Forecasting with Deep Learning (2021)](https://arxiv.org/pdf/2112.06345)
+- [Spatial-temporal knowledge graph network for event prediction (2023)](https://arxiv.org/abs/2001.03055)**  
+- [Causality Enhanced Societal Event Forecasting With Heterogeneous Graph Learning (2022)](https://yue-ning.github.io/docs/ICDM22-HGC.pdf)
+- [Combining Heterogeneous Data Sources for Civil Unrest Forecasting (2015)](https://dl.acm.org/doi/10.1145/2808797.2808847)
 - [Deep Learning Forecasting Models for Conflict Events (2023)](https://arxiv.org/abs/2305.01234)  
 - [GNN-based Crisis Mapping from News and Tweets (2022)](https://arxiv.org/abs/2211.03672)  
 - [Multi-modal Early Warning Systems for Conflict using GNN + LLM (2023)](https://arxiv.org/abs/2307.12918)  
 - [Forecasting Ethnic Violence with Topological Graph Models (2021)](https://www.sciencedirect.com/science/article/pii/S0261379421001576)  
 - [Temporal Graph Attention Networks for Forecasting Instability (2022)](https://arxiv.org/abs/2212.01475)
 
-1. [Social Unrest Prediction with GNNs](https://paperswithcode.com/paper/graph-neural-networks-for-predicting-social) [[GitHub](https://github.com/socialsensor/GNN-unrest)]
-2. [Protest Event Forecasting Using ST-GCN](https://paperswithcode.com/paper/forecasting-social-unrest-events-using)  
-3. [Conflict Prediction on Dynamic Graphs](https://paperswithcode.com/task/conflict-prediction)  
-4. [Temporal GNN for Social Systems](https://paperswithcode.com/paper/tgn-temporal-graph-networks-for-deep-learning)  
-5. [Heterogeneous Graphs for Event Prediction](https://github.com/social-events/heteroGNN-conflict)
-
 ## Datasets and Benchmarks
 
-1. [ACLED - Armed Conflict Location & Event Dataset](https://acleddata.com/) - Political violence and protest events globally.  
-2. [UCDP - Uppsala Conflict Data Program](https://ucdp.uu.se/) - Comprehensive conflict event data.  
-3. [GDELT - Global Database of Events, Language, and Tone](https://www.gdeltproject.org/)  
-4. [ICEWS - Integrated Conflict Early Warning System](https://dataverse.harvard.edu/dataverse/icews)  
-5. [PHEME Dataset](https://figshare.com/articles/dataset/PHEME_dataset_for_rumour_detection_and_veracity_classification/6392078) - Social media interactions during crises.  
-6. [Global Twitter Graphs for Crisis Events](https://crisisnlp.qcri.org/)  
-7. [Open Graph Benchmark - Social Datasets](https://ogb.stanford.edu/)
+- [Peace Security Data Hub] https://psdata.un.org/)
+- [ACLED - Armed Conflict Location & Event Dataset](https://acleddata.com/) - Political violence and protest events globally.  
+- [UCDP - Uppsala Conflict Data Program](https://ucdp.uu.se/) - Comprehensive conflict event data.  
+- [GDELT - Global Database of Events, Language, and Tone](https://www.gdeltproject.org/)  
+- [ICEWS - Integrated Conflict Early Warning System](https://dataverse.harvard.edu/dataverse/icews)  
+- [PHEME Dataset](https://figshare.com/articles/dataset/PHEME_dataset_for_rumour_detection_and_veracity_classification/6392078) - Rumours on Social media interactions during crises.  
+- [Global Twitter Graphs for Crisis Events](https://crisisnlp.qcri.org/)  
+
 
 ## Libraries and Tools
 
-1. [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)  
-2. [DGL - Deep Graph Library](https://www.dgl.ai/)  
-3. [networkx](https://networkx.org/) - General-purpose graph modeling.  
-4. [graph-tool](https://graph-tool.skewed.de/)  
-5. [Snorkel](https://www.snorkel.org/) - Weak supervision for noisy conflict data.  
-6. [SocioPatterns](http://www.sociopatterns.org/)  
-7. [ConflictNet Toolkit](https://github.com/conflictnet)
+- [Open Graph Benchmark - Social Datasets](https://ogb.stanford.edu/)
+- [ViEWS Uppsala Univ.](https://viewsforecasting.org/)
+- [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/) - Library to write and train Graph Neural Networks
+- [DGL - Deep Graph Library](https://www.dgl.ai/)  
+- [networkx](https://networkx.org/) - General-purpose network analysis in Python  
+- [graph-tool](https://graph-tool.skewed.de/)   
+- [SocioPatterns Datasets](http://www.sociopatterns.org/)  
+- [Anticipation Hub](https://www.anticipation-hub.org/learn/emerging-topics/conflict/catalogue-of-early-warning-tools-for-anticipating-the-impact-of-conflict)
 
 ## Use Cases
 
-1. [UN Global Pulse](https://www.unglobalpulse.org/) - Conflict forecasting pilots with ML.  
-2. [ACLED Early Warning Research Hub](https://acleddata.com/early-warning-research-hub/)  
-3. [WWIC’s Tech for Peace Initiative](https://www.wilsoncenter.org/)  
-4. [Armed Conflict Prediction via AI at ETH Zurich](https://css.ethz.ch/)  
-5. [DARPA KAIROS](https://www.darpa.mil/program/kairos)  
-6. [AI for Peace at NeurIPS ML4Good](https://ml4good.github.io/)  
-7. [GNN Unrest Forecaster by USC](https://github.com/socialsensor/GNN-unrest)
+- [Early Warning Project, United States Holocaust Memorial Museum](https://earlywarningproject.ushmm.org/)
+- [Machine Learning and Conflict Prediction: A Use Case](https://stabilityjournal.org/articles/10.5334/sta.cr)
+- [UN Global Pulse](https://www.unglobalpulse.org/) - Conflict forecasting pilots with ML.  
+- [ACLED TrendFinder](https://acleddata.com/early-warning-research-hub/)  
+- [WWIC’s Tech for Peace Initiatives](https://www.wilsoncenter.org/)  
+- [Armed Conflict Prediction via AI at ETH Zurich](https://css.ethz.ch/)
+- [Council on Foreign Relations, Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker)
+
 
 ## Tutorials and Courses
 
-1. [Stanford CS224W - Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)  
-2. [Graph ML for Crisis Analysis - DeepMind YouTube](https://www.youtube.com/@DeepMind)  
-3. [FastAI Course on Graphs](https://course.fast.ai/Lessons/graph.html)  
-4. [Conflict Data Analysis with R (Uppsala)](https://ucdp.uu.se/tutorials)  
-5. [DGL Official Tutorials](https://docs.dgl.ai/en/0.6.x/tutorials/index.html)  
-6. [Pytorch Geometric Tutorials](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)  
-7. [GNNs for Social Forecasting (YouTube Playlist)](https://www.youtube.com/results?search_query=gnn+conflict+prediction)
+- [Stanford CS224W - Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)  
+- [Graph ML YouTube](https://www.youtube.com/results?search_query=Graph+ML)  
+- [Pytorch Geometric Tutorials](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)  
+- [GNNs for Social Forecasting (YouTube Playlist)](https://www.youtube.com/results?search_query=gnn+conflict+prediction)
 
 ## Books
 
-1. *Graph Representation Learning* by William L. Hamilton  
-2. *Networks, Crowds, and Markets* by David Easley & Jon Kleinberg  
-3. *Deep Learning on Graphs* by Yao Ma & Jiliang Tang  
-4. *Understanding Civil War* by Paul Collier and Nicholas Sambanis  
-5. *Machine Learning for Social and Behavioral Research* by A. Smaldino  
-6. *Artificial Intelligence and Global Security* by J. Allen  
-7. *Forecasting Political Events* by Bruce Bueno de Mesquita
+- [*Complexity & Conflict and Complexity*](https://necsi.edu/conflict-and-complexity) by Philip vos Fellman, Yaneer Bar-Yam and Ali A. Minai
+- [*Graph Representation Learning*](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf) by William L. Hamilton  
+- [*Networks, Crowds, and Markets*](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley & Jon Kleinberg  
+- [*Deep Learning on Graphs*](https://yaoma24.github.io/dlg_book/dlg_book.pdf) by Yao Ma & Jiliang Tang  
+- [*Understanding Civil War*](https://openknowledge.worldbank.org/entities/publication/2ac8efb6-c938-515b-884e-4010ee255f8a) by Paul Collier and Nicholas Sambanis  
+- [*Machine Learning for Social and Behavioral Research*](https://sampling.vitalsource.com/referral?term=9781462552948) by A. Smaldino  
+-  [*Artificial Intelligence and Global Security*](https://www.google.fr/books/edition/Artificial_Intelligence_and_Global_Secur/T4fvDwAAQBAJ?hl=en&gbpv=0) by J. Allen  
+- [*Forecasting Political Events*](https://doi.org/10.1093/oxfordhb/9780190634131.013.16) by Michael C. Horowitz
 
 ## Communities and Conferences
 
-1. [NeurIPS ML for Peace Workshop](https://ml4peace.github.io/)  
-2. [ICWSM - Int’l Conf. on Web and Social Media](https://www.icwsm.org/)  
-3. [Complexity & Conflict Network](https://conflictnetworks.org/)  
-4. [PeaceTech Lab](https://www.peacetechlab.org/)  
-5. [AAAI Symposium on AI for Social Good](https://aaai.org/conference/)  
-6. [Data Science for Social Good](https://www.dssgfellowship.org/)  
-7. [ML4D (Machine Learning for Development)](https://ml4d.github.io/)
+- [ICWSM - Int’l Conf. on Web and Social Media](https://www.icwsm.org/)  
+- [PeaceTech Lab](https://www.usip.org/inside-the-peacetech-lab)  
+- [AAAI Symposium on AI for Social Impact](https://aaai.org/conference/aaai/aaai-26/aisi-call/)  
+- [Data Science for Social Good](https://www.dssgfellowship.org/)  
+- [CNAS Artificial Intelligence and Global Security mailing list](https://www.cnas.org/artificial-intelligence-and-global-security)
 
 ## Conclusion
 
