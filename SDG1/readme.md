@@ -1,4 +1,3 @@
-
 # 🌍 SDG#1. Estimation of Poverty from Satellite Images Using Transformers
 
 > An evolving list of resources, datasets, tools, and papers at the intersection of **poverty mapping**, **remote sensing**, and **transformer-based deep learning models**.
@@ -123,6 +122,6 @@ Transformer models and deep learning techniques represent a major leap forward i
 
 Future directions include **multimodal models**, **temporal change detection**, and **explainable AI for policy impact**.
 
-
-
 ---
+
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
