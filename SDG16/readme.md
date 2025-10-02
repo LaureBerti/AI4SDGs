@@ -1,28 +1,30 @@
-# 🕊️ Awesome Prediction of Social Conflicts Using GNNs
+# 🌍 SDG#16. Prediction of Social Conflicts Using GNNs
 
-> A curated list of resources, datasets, papers, and tools for predicting social conflicts using Graph Neural Networks (GNNs). Inspired by the [Awesome List Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md). Contributions welcome!
+> A evolving list of resources, datasets, papers, and tools for predicting social conflicts using **Graph Neural Networks** (GNNs).
+
+> Feel free to update and contribute !
+
+---
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Surveys and Review Papers](#surveys-and-review-papers)
-- [Key Scientific Papers](#key-scientific-papers)
-  - [Foundational Papers](#foundational-papers)
-  - [Follow-Up and Related Papers](#follow-up-and-related-papers)
-- [Papers with Code](#papers-with-code)
+- [Scientific Papers](#scientific-papers)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
-- [Open Source Tools and Libraries](#open-source-tools-and-libraries)
-- [Use Cases and Applications](#use-cases-and-applications)
-- [Tutorials and Courses](#tutorials-and-courses)
-- [Books and Authoritative References](#books-and-authoritative-references)
+- [Libraries and Tools](#libraries-and-tools)
+- [Use Cases](#use-cases)
+- [Courses and Tutorials](#courses-and-tutorials)
+- [Books](#books)
 - [Communities and Conferences](#communities-and-conferences)
-- [Conclusion and Future Directions](#conclusion-and-future-directions)
+- [Conclusion](#conclusion)
+
+---
 
 ## Introduction
 
 Predicting social conflicts—ranging from protests and civil unrest to broader geopolitical instability—is a growing field that leverages machine learning to inform peacebuilding and preventive action. Graph Neural Networks (GNNs) offer powerful tools for modeling relational and dynamic structures common in socio-political data (e.g., actor networks, temporal sequences, geographic clustering). By learning from both network structure and node attributes, GNNs enable fine-grained forecasting of social phenomena at scale.
 
-## Surveys and Review Papers
+## Scientific Papers
 
 1. [A Survey on Event Forecasting using Text and Graph Neural Networks (2023)](https://arxiv.org/abs/2303.00105)
 2. [Early Warning and Conflict Prediction with Machine Learning (2021)](https://journals.sagepub.com/doi/full/10.1177/0022343321995540)
@@ -30,25 +32,17 @@ Predicting social conflicts—ranging from protests and civil unrest to broader 
 4. [Deep Learning for Political Science (2020)](https://www.annualreviews.org/doi/10.1146/annurev-polisci-052918-020807)
 5. [Social Network Analysis and Conflict Forecasting: A Review (2019)](https://www.cambridge.org/core/journals/international-organization/article/abs/forecasting-political-conflict-and-violence/)
 
-## Key Scientific Papers
-
-### Foundational Papers
-
 1. **[Graph Neural Networks for Predicting Social Unrest (2022)](https://arxiv.org/abs/2206.04533)** - Nguyen et al. introduce a GNN-based method for protest forecasting using temporal and network data.  
 2. **[Forecasting Protests with GNNs and News Data (2021)](https://aclanthology.org/2021.acl-long.498/)** - Explores social signals and graph dynamics for unrest prediction.  
 3. **[A Deep Learning Approach to Predict Civil Unrest Using News (2019)](https://ieeexplore.ieee.org/document/8715564)** - Early integration of GNNs and NLP for social instability forecasting.  
 4. **[Spatiotemporal Graph Neural Networks for Forecasting Social Events (2020)](https://arxiv.org/abs/2001.03055)**  
 5. **[Using Heterogeneous Graphs for Protest Prediction (2022)](https://arxiv.org/abs/2205.09845)** - GNNs on event networks, embeddings, and hybrid architectures.
 
-### Follow-Up and Related Papers
-
 - [Deep Learning Forecasting Models for Conflict Events (2023)](https://arxiv.org/abs/2305.01234)  
 - [GNN-based Crisis Mapping from News and Tweets (2022)](https://arxiv.org/abs/2211.03672)  
 - [Multi-modal Early Warning Systems for Conflict using GNN + LLM (2023)](https://arxiv.org/abs/2307.12918)  
 - [Forecasting Ethnic Violence with Topological Graph Models (2021)](https://www.sciencedirect.com/science/article/pii/S0261379421001576)  
 - [Temporal Graph Attention Networks for Forecasting Instability (2022)](https://arxiv.org/abs/2212.01475)
-
-## Papers with Code
 
 1. [Social Unrest Prediction with GNNs](https://paperswithcode.com/paper/graph-neural-networks-for-predicting-social) [[GitHub](https://github.com/socialsensor/GNN-unrest)]
 2. [Protest Event Forecasting Using ST-GCN](https://paperswithcode.com/paper/forecasting-social-unrest-events-using)  
@@ -66,7 +60,7 @@ Predicting social conflicts—ranging from protests and civil unrest to broader 
 6. [Global Twitter Graphs for Crisis Events](https://crisisnlp.qcri.org/)  
 7. [Open Graph Benchmark - Social Datasets](https://ogb.stanford.edu/)
 
-## Open Source Tools and Libraries
+## Libraries and Tools
 
 1. [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)  
 2. [DGL - Deep Graph Library](https://www.dgl.ai/)  
@@ -76,7 +70,7 @@ Predicting social conflicts—ranging from protests and civil unrest to broader 
 6. [SocioPatterns](http://www.sociopatterns.org/)  
 7. [ConflictNet Toolkit](https://github.com/conflictnet)
 
-## Use Cases and Applications
+## Use Cases
 
 1. [UN Global Pulse](https://www.unglobalpulse.org/) - Conflict forecasting pilots with ML.  
 2. [ACLED Early Warning Research Hub](https://acleddata.com/early-warning-research-hub/)  
@@ -96,7 +90,7 @@ Predicting social conflicts—ranging from protests and civil unrest to broader 
 6. [Pytorch Geometric Tutorials](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)  
 7. [GNNs for Social Forecasting (YouTube Playlist)](https://www.youtube.com/results?search_query=gnn+conflict+prediction)
 
-## Books and Authoritative References
+## Books
 
 1. *Graph Representation Learning* by William L. Hamilton  
 2. *Networks, Crowds, and Markets* by David Easley & Jon Kleinberg  
@@ -116,7 +110,7 @@ Predicting social conflicts—ranging from protests and civil unrest to broader 
 6. [Data Science for Social Good](https://www.dssgfellowship.org/)  
 7. [ML4D (Machine Learning for Development)](https://ml4d.github.io/)
 
-## Conclusion and Future Directions
+## Conclusion
 
 Predicting social conflict using Graph Neural Networks represents one of the most impactful frontiers in machine learning for social good. By modeling human interaction as evolving networks, we can generate early warnings, understand root causes, and drive informed policy. The future promises even greater potential with advances in:
 
