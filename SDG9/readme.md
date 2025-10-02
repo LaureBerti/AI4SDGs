@@ -117,3 +117,7 @@ Anomaly detection in IoT systems is a cornerstone of security, reliability, and 
 
 Multilayer Perceptrons offer a scalable, interpretable, and versatile architecture for IoT anomaly detection tasks, ranging from predictive maintenance to cybersecurity. While much progress has been made, challenges remain in building frugal, explainable, and resilient models deployable across heterogeneous devices and constrained environments. This list is designed as a starting point and evolving toolkit for those committed to applying AI responsibly for smart, secure, and sustainable IoT futures.
 
+---
+
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
