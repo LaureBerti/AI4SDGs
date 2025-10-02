@@ -108,3 +108,5 @@ Researchers and developers must now explore **ethical personalization**, **fairn
 
 ---
 
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
+
