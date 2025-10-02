@@ -107,3 +107,7 @@ Crop disease detection is the application of machine learning and computer visio
 ## Conclusion
 
 AI-powered crop disease detection is essential for transforming agriculture into a more resilient and efficient system. Pre-trained networks reduce the need for large annotated datasets, while ensemble learning improves generalization and robustness. The fusion of computer vision with plant pathology is not only technical progress — it’s a tool for empowering millions of farmers and ensuring global food security. Future research should explore mobile-friendly inference, multimodal fusion (e.g., satellite imagery + drone + soil sensors), explainability in model outputs, and global collaborative datasets that drive better results for all.
+
+---
+
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
