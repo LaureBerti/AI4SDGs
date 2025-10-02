@@ -107,7 +107,7 @@ Predicting GHG emissions using tabular deep learning models represents a critica
 - Fusion of multimodal inputs (e.g., satellite + socioeconomic + tabular)
 - Temporal GHG forecasting
 - Policy-impact modeling
-
-The future will be defined by models that are accurate, transparent, and actionable across governments, companies, and communities. Let’s build it together.
-
+- 
 ---
+
+**Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
