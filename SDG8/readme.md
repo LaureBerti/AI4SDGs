@@ -1,4 +1,3 @@
-
 # 🌍 SDG#8. GHG Emission Prediction with Tabular Deep Learning
 
 > A evolving list of resources, tools, datasets, papers, and communities for predicting greenhouse gas (GHG) emissions using ML and DL models optimized for tabular data. Built for climate scientists, data engineers, and AI researchers.
