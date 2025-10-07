@@ -1,13 +1,18 @@
-**Awesome IoT Anomaly Detection with MLP**
+
+# 🌍 SDG#9. IoT Anomaly Detection with MLP
+
+> A evolving list of resources, tools, datasets, papers, and communities for detecting anomalies from IoT sensored data using **Multilayer Perceptron (MLP)**.
+
+> Feel free to update and contribute !
 
 ---
 
 ## Table of Contents
+
 - [Introduction](#introduction)
-- [Surveys](#surveys)
 - [Scientific Papers](#scientific-papers)
-- [Papers with Code](#papers-with-code)
-- [Datasets, Benchmarks, Environments, and Libraries](#datasets-benchmarks-environments-and-libraries)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Libraries and Tools](#libraries-and-tools)
 - [Use Cases](#use-cases)
 - [Courses and Tutorials](#courses-and-tutorials)
 - [Books](#books)
@@ -22,54 +27,41 @@ Anomaly detection in IoT systems is a cornerstone of security, reliability, and 
 
 ---
 
-## Surveys
-
-1. **IoT Anomaly Detection: Challenges, Methods, and Future Directions** – https://doi.org/10.1016/j.ins.2020.05.043
-2. **A Comprehensive Survey on Machine Learning for Networking: Evolution, Applications and Research Opportunities** – https://doi.org/10.1109/COMST.2019.2924242
-3. **Anomaly Detection in IoT: A Review** – https://doi.org/10.1109/ACCESS.2020.2968514
-4. **Deep Learning Approaches for Anomaly Detection in Cyber-Physical Systems** – https://doi.org/10.1016/j.future.2020.07.042
-5. **A Survey of Machine Learning Techniques for IoT Security** – https://doi.org/10.1016/j.future.2019.11.029
-
----
-
 ## Scientific Papers
 
-**Foundational Papers:**
-1. P. Malhotra et al., "Long Short Term Memory Networks for Anomaly Detection in Time Series," 2015. – https://doi.org/10.48550/arXiv.1502.04670
-2. N. Ahmed et al., "MLP-based deep learning model for anomaly detection in IoT networks," IEEE Sensors, 2021.
-3. L. Breier and M. Hudec, "Anomaly detection from log files using data mining techniques," 2016. – https://doi.org/10.1109/CarpathianCC.2016.7501132
-4. H. T. Hayajneh et al., "MLP Neural Network-Based Anomaly Detection in Smart Environments," 2019.
-5. L. Xu et al., "Unsupervised anomaly detection via variational auto-encoder for seasonal KPIs in web applications," 2018.
-
-**Related Works:**
-6. M. Thill et al., "Applying deep learning models to anomaly detection: The case of industrial time series," – https://doi.org/10.1109/ICMLA.2018.00184
-7. H. Kim et al., "Cyber Threat Detection using Deep Neural Networks," – https://doi.org/10.1109/ICOIN.2017.7899568
-8. Y. Lin et al., "Using MLP for IoT sensor data classification and anomaly detection," – https://doi.org/10.1109/IoT-SIU.2019.8790748
-9. C. Wang et al., "Deep learning-based anomaly detection with MLP ensemble," – https://doi.org/10.1109/ACCESS.2019.2947650
-10. S. Roy et al., "Edge intelligence for anomaly detection in IoT," – https://doi.org/10.1016/j.future.2020.07.029
-
----
-
-## Papers with Code
-
-1. [MLP for IoT anomaly detection](https://paperswithcode.com/paper/a-deep-learning-model-for-network-anomaly)
-2. [EdgeAI anomaly detection with MLP](https://paperswithcode.com/paper/edge-ai-enabled-anomaly-detection-for)
-3. [N-BaIoT: Network-Based Detection using MLP](https://paperswithcode.com/paper/n-baiot-network-based-detection-of-iot-botnet)
-4. [Time-series anomaly detection with MLP in Keras](https://paperswithcode.com/paper/lstm-based-autoencoder-anomaly-detection)
-5. [Hybrid MLP-SVM IoT anomaly detection](https://paperswithcode.com/paper/hybrid-mlp-svm-iot-anomaly-detection)
+- [**IoT anomaly detection methods and applications: A survey**](https://www.sciencedirect.com/science/article/pii/S2542660522000622)
+- [**A comprehensive survey on machine learning for networking: evolution, applications and research opportunities**](https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0087-2) 
+- [**A systematic review of anomaly detection in IoT security: towards quantum machine learning approach**](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-025-00414-6) 
+- [**Deep Learning-Based Anomaly Detection in Cyber-Physical Systems: Progress and Opportunities**](https://arxiv.org/abs/2003.13213)
+- [**A Survey of Machine Learning Techniques for IoT Security**](https://link.springer.com/chapter/10.1007/978-981-16-8062-5_9)
+- [**F-SE-LSTM: A Time Series Anomaly Detection Method with Frequency
+Domain Information**](https://arxiv.org/pdf/2412.02474)
+- [**Deep learning-based intrusion detection for IoT networks: a scalable and efficient approach**](https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-025-00202-w)
+- [**Deep Learning-Enabled Anomaly Detection for IoT Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4258930)
+- [**Deep Learning Advancements in Anomaly Detection: A Comprehensive Survey**](https://arxiv.org/html/2503.13195v1)
+- [**Deep Learning for Time Series Anomaly Detection: A Survey**](https://arxiv.org/pdf/2211.05244) 
+- [**Anomaly Detection in Smart Environments: A Comprehensive Survey**](https://repositorio.unican.es/xmlui/bitstream/handle/10902/33189/AnomalyDetectionSmart.pdf?sequence=3&isAllowed=y)
+- [**Anomaly Detection in IoT Networks Using MLP Classifier and RT-IoT2022 Dataset**](https://ieeexplore.ieee.org/document/11070841)
+- [**Deep Learning for Anomaly Detection: A Review**](https://arxiv.org/pdf/2007.02500) 
+- [**Ensemble averaging deep neural network for botnet detection in heterogeneous Internet of Things devices**](https://www.nature.com/articles/s41598-024-54438-6)
+- [**Anomaly Detection Techniques in Smart Grid Systems: A Review**](https://arxiv.org/abs/2306.02473)
 
 ---
 
-## Datasets, Benchmarks, Environments, and Libraries
+## Datasets and Benchmarks
 
 - [TON_IoT Datasets](https://research.unsw.edu.au/projects/toniot-datasets)
-- [N-BaIoT Dataset](https://www.unb.ca/cic/datasets/nbaiot.html)
-- [OpenML – Anomaly Detection Tasks](https://www.openml.org/search?type=data&status=active&tag=anomaly)
-- [Kaggle – IoT Device Log Datasets](https://www.kaggle.com/datasets)
-- [Scikit-learn](https://scikit-learn.org/stable/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [PyOD – Python Outlier Detection Library](https://pyod.readthedocs.io/)
+- [N-BaIoT Dataset](https://ieee-dataport.org/documents/n-baiot)
+- [OpenML – Anomaly Detection Tasks](https://www.openml.org/search)
+- [Kaggle – IoT Device Log Datasets](https://www.kaggle.com/datasets?search=IoT)
 
+---
+
+## Libraries and Tools
+
+- [PyOD – Python Outlier Detection Library](https://pyod.readthedocs.io/)
+- [Anomalib](https://github.com/open-edge-platform/anomalib)
+- [Prophet](https://github.com/facebook/prophet)
 ---
 
 ## Use Cases
@@ -77,18 +69,17 @@ Anomaly detection in IoT systems is a cornerstone of security, reliability, and 
 - [Smart Grid Anomaly Detection (Hitachi)](https://www.hitachi.com/rd/news/press/2022/0107.html)
 - [Azure IoT Central Anomaly Detector](https://learn.microsoft.com/en-us/azure/iot-central/)
 - [Bosch Factory Sensor Monitoring](https://www.bosch-iot-suite.com/)
-- [ABB Predictive Maintenance](https://new.abb.com/process-automation/digital/anomaly-detection)
-- [IoT anomaly detection in agriculture (AgriEdge)](https://agrieye.tech/)
-
+- [Databricks](https://github.com/databricks-industry-solutions/iot-anomaly-detection)
 ---
 
 ## Courses and Tutorials
 
+- [Neural Network (MLP) for Time Series Forecasting in Practice](https://towardsdatascience.com/neural-network-mlp-for-time-series-forecasting-in-practice-04c47c1e3711/)
 - [Coursera – Machine Learning with Python by IBM](https://www.coursera.org/learn/machine-learning-with-python)
-- [YouTube – MLP for Anomaly Detection Tutorial](https://www.youtube.com/watch?v=gn4nRCC9TwQ)
-- [Kaggle – Intro to Anomaly Detection](https://www.kaggle.com/code/rafjaa/anomaly-detection)
+- [YouTube – MLP for Anomaly Detection Tutorial](https://www.youtube.com/results?search_query=iot+anomaly+detection+mlp)
+- [Kaggle – Intro to Anomaly Detection](https://www.kaggle.com/search?q=anomaly+detection)
 - [FastAI – Introduction to Deep Learning](https://course.fast.ai/)
-- [GitHub – IoT anomaly detection notebooks](https://github.com/search?q=iot+anomaly+detection+mlp)
+- [GitHub – IoT anomaly detection notebooks](https://github.com/search?q=iot+anomaly+detection)
 
 ---
 
@@ -107,9 +98,7 @@ Anomaly detection in IoT systems is a cornerstone of security, reliability, and 
 - [IEEE IoT Journal](https://ieee-iotj.org/)
 - [NeurIPS](https://nips.cc/)
 - [IJCNN – International Joint Conference on Neural Networks](https://www.ijcnn.org/)
-- [Reddit – r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-- [IoT Forum](https://www.iot-forum.eu/)
-- [GitHub – Awesome IoT Security](https://github.com/terryum/awesome-iot-security)
+- [IoT Forum](https://iotforum.org/)
 
 ---
 
