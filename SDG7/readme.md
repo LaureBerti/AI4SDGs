@@ -1,6 +1,6 @@
 #  🌍 SDG#7. Deep Reinforcement Learning for Energy Control and Scheduling
 
-> A evolving list of resources, tools, datasets, papers, and communities focused on Deep Reinforcement Learning (DRL) to control, manage, and schedule energy systems, from smart homes to entire power grids.
+> An evolving list of resources, tools, datasets, papers, and communities focused on Deep Reinforcement Learning (DRL) to control, manage, and schedule energy systems, from smart homes to entire power grids.
 
 > Feel free to update and contribute !
 
