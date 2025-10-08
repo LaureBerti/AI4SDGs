@@ -1,12 +1,31 @@
-# 🌊 Awesome Flood Area Segmentation using U-Net [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🌍 SDG#13. Flood Area Segmentation using U-Net 
 
-> A curated list of resources for flood area segmentation from images using U-Net models. This list follows the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
+> An evolving list of resources, tools, datasets, papers, and communities focused on flood area segmentation from images using **U-Net** models. 
 
-Floods are one of the most devastating natural disasters globally, and accurate, automated segmentation of flooded areas from satellite and aerial images is crucial for timely disaster response. U-Net, a powerful convolutional neural network architecture, has been widely adopted for biomedical and remote sensing segmentation tasks. This list collects essential surveys, scientific papers, datasets, codebases, use cases, and learning resources to empower researchers, practitioners, and students working on flood detection using U-Net.
+> Feel free to update and contribute !
 
 ---
 
-## 📑 Surveys
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Scientific Papers](#scientific-papers)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Libraries and Tools](#libraries-and-tools)
+- [Use Cases](#use-cases)
+- [Courses and Tutorials](#courses-and-tutorials)
+- [Books](#books)
+- [Communities and Conferences](#communities-and-conferences)
+- [Conclusion](#conclusion)
+
+---
+
+## Introduction
+
+> Floods are one of the most devastating natural disasters globally, and accurate, automated segmentation of flooded areas from satellite and aerial images is crucial for timely disaster response. U-Net, a powerful convolutional neural network architecture, has been widely adopted for biomedical and remote sensing segmentation tasks. This list collects essential surveys, scientific papers, datasets, codebases, use cases, and learning resources to empower researchers, practitioners, and students working on flood detection using U-Net.
+---
+
+##  Scientific Papers
 
 1. **A Survey on Semantic Segmentation using Deep Learning Techniques**  
    [DOI: 10.1109/TITS.2020.2987365](https://doi.org/10.1109/TITS.2020.2987365)
@@ -23,9 +42,6 @@ Floods are one of the most devastating natural disasters globally, and accurate,
 5. **Flood Mapping using Remote Sensing and Deep Learning Approaches: A Survey**  
    [Link (ResearchGate)](https://www.researchgate.net/publication/349538012)
 
----
-
-## 🧠 Key Scientific Papers
 
 1. **U-Net: Convolutional Networks for Biomedical Image Segmentation**  
    [Ronneberger et al., 2015]  
@@ -43,16 +59,14 @@ Floods are one of the most devastating natural disasters globally, and accurate,
 5. **A U-Net Based Model for Segmenting Flooded Areas in Urban Regions**  
    [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_19)
 
-Related Papers via [SciSpace](https://scispace.com/) / [ResearchRabbit](https://researchrabbitapp.com/):
+
 - Deep Residual U-Net for Remote Sensing Image Segmentation
 - Comparison of U-Net and SegNet for Satellite Imagery
 - Multi-modal U-Net for Disaster Management
 - Attention U-Net for Improved Segmentation
 - Temporal Flood Mapping using Recurrent U-Net
 
----
 
-## 💻 Papers With Code
 
 1. [U-Net for Flood Detection – paperswithcode.com](https://paperswithcode.com/paper/deep-learning-based-flood-detection-using)
 
@@ -66,7 +80,7 @@ Related Papers via [SciSpace](https://scispace.com/) / [ResearchRabbit](https://
 
 ---
 
-## 📊 Benchmarks, Datasets, and Libraries
+## Datasets and Benchmarks
 
 1. **FloodNet Dataset**  
    [Link](https://github.com/SHI-Labs/FloodNet)
@@ -88,7 +102,12 @@ Related Papers via [SciSpace](https://scispace.com/) / [ResearchRabbit](https://
 
 ---
 
-## 🧪 Use Cases
+## Libraries and Tools
+
+
+---
+
+## Use Cases
 
 1. **UNDP Flood Mapping Tool**  
    [Link](https://www.undp.org/publications/flood-map)
@@ -107,7 +126,7 @@ Related Papers via [SciSpace](https://scispace.com/) / [ResearchRabbit](https://
 
 ---
 
-## 🎓 Courses and Tutorials
+## Courses and Tutorials
 
 1. **U-Net Explained + Code (YouTube)**  
    [Link](https://www.youtube.com/watch?v=IHq1t7NxS8k)
@@ -126,7 +145,7 @@ Related Papers via [SciSpace](https://scispace.com/) / [ResearchRabbit](https://
 
 ---
 
-## 📚 Books
+## Books
 
 1. **Deep Learning for Remote Sensing Applications**  
    [ISBN: 9780128158265](https://www.sciencedirect.com/book/9780128158265)
@@ -145,7 +164,7 @@ Related Papers via [SciSpace](https://scispace.com/) / [ResearchRabbit](https://
 
 ---
 
-## 🌍 Communities and Conferences
+## Communities and Conferences
 
 1. **IEEE Geoscience and Remote Sensing Society (GRSS)**  
    [Link](https://www.grss-ieee.org/)
@@ -164,7 +183,7 @@ Related Papers via [SciSpace](https://scispace.com/) / [ResearchRabbit](https://
 
 ---
 
-## 💡 Conclusion and Future Directions
+## Conclusion
 
 Flood segmentation from imagery using U-Net is a critical advancement in disaster resilience. It enables rapid assessment and efficient response to climate-related events. As satellite imagery and computational power evolve, U-Net architectures and their variations (e.g., Attention U-Net, Residual U-Net) are opening new possibilities for real-time flood analysis.
 
@@ -175,7 +194,6 @@ Future directions worth exploring:
 - Self-supervised learning for flood detection
 - Generative methods for data augmentation in flood prediction
 
-Keep exploring. Keep building. Flood resilience depends on it.
 
 ---
 
