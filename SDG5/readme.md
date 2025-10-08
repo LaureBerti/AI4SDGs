@@ -1,6 +1,6 @@
 # 🌍 SDG#5. Gender-Based Violence Detection from Tweets Using Attention-Based Bi-GRU
 
-> A evolving list of resources, tools, datasets, papers, and communities focused on **Gender-Based Violence Detection** using attention-based Bidirectional Gated Recurrent Units.  
+> An evolving list of resources, tools, datasets, papers, and communities focused on **Gender-Based Violence Detection** using attention-based Bidirectional Gated Recurrent Units.  
 
 > Feel free to update and contribute !
 
