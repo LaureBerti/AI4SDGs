@@ -1,6 +1,6 @@
 # 🌍 SDG#17.  Climate Agreement Negotiation with MARL
 
-> A evolving list of resources, tools, datasets, papers, and communities focused at the intersection of **climate agreement negotiation and Multi-Agent Reinforcement Learning** (MARL).
+> An evolving list of resources, tools, datasets, papers, and communities focused at the intersection of **climate agreement negotiation and Multi-Agent Reinforcement Learning** (MARL).
 
 > Feel free to update and contribute !
 
