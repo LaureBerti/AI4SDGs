@@ -1,6 +1,6 @@
 # 🌍 SDG#15. Acoustic Biodiversity Assessment with VAE
 
-* An evolving list of resources, tools, datasets, papers, and communities focused on **Variational Autoencoders** for ecoacoustic monitoring and biodiversity assessment.*
+> An evolving list of resources, tools, datasets, papers, and communities focused on **Variational Autoencoders** for ecoacoustic monitoring and biodiversity assessment.
 
 > Feel free to update and contribute !
 
@@ -22,49 +22,39 @@
 
 ## Introduction
 
-Biodiversity is increasingly threatened by climate change, habitat loss, and human activity. Acoustic monitoring offers a scalable, non-invasive way to assess ecological health by capturing the rich soundscapes of natural environments. Variational Autoencoders (VAEs) provide a powerful, unsupervised framework to extract latent structure from large-scale ecoacoustic data. This guide aggregates the most relevant resources—papers, datasets, tools, and communities—at the intersection of bioacoustics and generative machine learning.
+Biodiversity is increasingly threatened by climate change, habitat loss, and human activity. Acoustic monitoring offers a scalable, non-invasive way to assess ecological health by capturing the rich soundscapes of natural environments. Variational Autoencoders (VAEs) provide a powerful, unsupervised framework to extract latent structure from large-scale ecoacoustic data. This page aggregates relevant resources—papers, datasets, tools, and communities—at the intersection of bioacoustics and generative machine learning.
 
 ---
 
 ## Scientific Papers
 
-1. Towsey, M., Zhang, L., Cottman-Fields, M., et al. (2014). *Visualization of Long-duration Acoustic Recordings of the Environment.* https://doi.org/10.1007/s13735-014-0056-7
-2. Gibb, R., Browning, E., Glover-Kapfer, P., & Jones, K. E. (2019). *Emerging opportunities and challenges for passive acoustics in ecological assessment and monitoring.* Methods in Ecology and Evolution. https://doi.org/10.1111/2041-210X.13281
-3. Stowell, D., & Wood, M. (2018). *Automatic acoustic identification of birds: A review.* Journal of the Royal Society Interface. https://doi.org/10.1098/rsif.2018.0032
-4. Lerch, A. (2021). *Deep Learning for Audio: A Review.* https://arxiv.org/abs/2107.03974
-5. Kahl, S., et al. (2021). *BirdNET: A deep learning solution for avian diversity monitoring.* Ecological Informatics. https://doi.org/10.1016/j.ecoinf.2021.101236
-
-
-1. Hershey, S., Chaudhuri, S., Ellis, D. P., et al. (2017). *CNN architectures for large-scale audio classification.* https://arxiv.org/abs/1609.09430
-2. Kong, Q., Cao, Y., Iqbal, T., Wang, Y., Wang, W., & Plumbley, M. D. (2020). *PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition.* https://arxiv.org/abs/1912.10211
-3. Stowell, D., Wood, M., & Stylianou, Y. (2019). *Automatic acoustic monitoring of biodiversity using unsupervised learning.* https://arxiv.org/abs/1904.03895
-4. Lostanlen, V., et al. (2019). *Per-channel energy normalization: Why and how.* https://arxiv.org/abs/1911.07034
-5. Cohen, Y., et al. (2022). *An unsupervised method for ecoacoustic monitoring with VAE-based clustering.* (via Scispace)
-
-
-- Piczak, K. J. (2015). *ESC: Dataset for Environmental Sound Classification.* https://doi.org/10.1145/2733373.2806390  
-- Salamon, J., Bello, J. P. (2017). *Deep convolutional neural networks and data augmentation for environmental sound classification.* https://arxiv.org/abs/1608.04363  
-- Lostanlen, V., et al. (2020). *Learning latent representations of soundscapes with VAE.* (Find on ResearchRabbit)  
-- Eliezer, N., et al. (2022). *Latent acoustic features for habitat monitoring.* (via Scispace)
-
-
-
-1. [Unsupervised Bioacoustic Embeddings via VAE](https://paperswithcode.com/paper/unsupervised-representation-learning-of-1)
-2. [BirdCLEF Species Classification Challenge](https://paperswithcode.com/sota/audio-classification-on-birdclef-2021)
-3. [SoundNet](https://github.com/cvondrick/soundnet)
-4. [Autoencoders for Bird Sound Separation](https://paperswithcode.com/paper/unsupervised-feature-learning-for-bird)
-5. [Ecoacoustic VAE Audio Anomaly Detection](https://github.com/jmichaelross/ecoacoustic-vae)
+- Towsey, M., et al. (2014). [*Visualization of Long-duration Acoustic Recordings of the Environment*](https://www.sciencedirect.com/science/article/pii/S1877050914002403)
+- Gibb, R., , et al.  (2019). [*Emerging opportunities and challenges for passive acoustics in ecological assessment and monitoring*](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13101)
+- Stowell, D., et al. (2018). [*Automatic acoustic detection of birds through deep learning: The first Bird Audio Detection challenge*](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.13103)
+- Purwins, H., et al. (2019). [*Deep Learning for Audio Signal Processing*](https://ieeexplore.ieee.org/document/8678825)
+- Kahl, S., et al. (2021). [*BirdNET: A deep learning solution for avian diversity monitoring*](https://www.sciencedirect.com/science/article/pii/S1574954121000273)
+- Hershey, S., Chaudhuri, S., Ellis, D. P., et al. (2017). [*CNN architectures for large-scale audio classification*](https://arxiv.org/abs/1609.09430)
+- Kong, Q., Cao, Y., Iqbal, T., Wang, Y., Wang, W., & Plumbley, M. D. (2020). [*PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition*](https://arxiv.org/abs/1912.10211)
+- Guerrero M.J., et al., (2023). [*Acoustic animal identification using unsupervised learning*](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14103) 
+- Fiorio, L.V., et al. (2022). [*Unsupervised Variational Acoustic Clustering*](Unsupervised Variational Acoustic Clustering)
+- Salamon, J., Bello, J. P. (2017). [*Deep convolutional neural networks and data augmentation for environmental sound classification*](https://ieeexplore.ieee.org/document/7829341)
+- Lostanlen, V., et al. (2019). [*Robust sound event detection in bioacoustic sensor networks*](https://arxiv.org/abs/1905.08352)
+- Alexander, C. et al., (2025). [*Automated note annotation after bioacoustic classification: Unsupervised clustering of extracted acoustic features improves detection of a cryptic owl*](https://www.sciencedirect.com/science/article/pii/S1574954125002316)
+- Rauch, L. et al., (2025) [*Can Masked Autoencoders Also Listen to Birds?*](https://arxiv.org/html/2504.12880v1)
 
 ---
 
 ## Datasets and Benchmarks
 
-1. **Rainforest Connection (RFCx)**: [rfcx.org](https://www.rfcx.org/)
-2. **BirdCLEF**: [https://www.kaggle.com/competitions/birdclef-2023](https://www.kaggle.com/competitions/birdclef-2023)
-3. **QUT Ecoacoustics**: [https://research.qut.edu.au/ecoacoustics/](https://research.qut.edu.au/ecoacoustics/)
-4. **UrbanSound8K**: [https://urbansounddataset.weebly.com/urbansound8k.html](https://urbansounddataset.weebly.com/urbansound8k.html)
-5. **SONYC Urban Sound Monitoring**: [https://zenodo.org/record/3675233](https://zenodo.org/record/3675233)
-6. **Arbimon Platform**: [https://www.arbimon.org](https://www.arbimon.org)
+- [**ESC: Dataset for Environmental Sound Classification**](https://github.com/karolpiczak/ESC-50) 
+- [**DCASE Challenge**](https://dcase.community/)
+- [**Urban Sound Monitoring SONYC-UST-v2**](https://arxiv.org/abs/2009.05188)
+- [**SoundNet**](https://github.com/cvondrick/soundnet)
+- [**Rainforest Connection (RFCx)**](https://www.rfcx.org/)
+- [**BirdCLEF**](https://www.imageclef.org/BirdCLEF2025)
+- [**QUT Ecoacoustics**](https://research.qut.edu.au/ecoacoustics/)
+- [**UrbanSound8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
+- [**Arbimon Platform**](https://www.arbimon.org)
 
 ---
 
@@ -80,44 +70,38 @@ Biodiversity is increasingly threatened by climate change, habitat loss, and hum
 
 ## Use Cases
 
-- 🌍 [Nature Sound Map](https://www.naturesoundmap.com/)
-- 🐦 [Arbimon Monitoring Platform](https://www.arbimon.org/)
-- 🐘 [WWF Bioacoustic Monitoring](https://www.wwf.org/)
-- 🐾 [Rainforest Connection Projects](https://www.rfcx.org/)
-- 🔊 [Soundscapes to Landscapes (S2L)](https://soundscapestolandscapes.org/)
-
+- [Nature Sound Map](https://www.naturesoundmap.com/)
+- [Arbimon Monitoring Platform](https://www.arbimon.org/)
+- [WWF Bioacoustic Monitoring](https://www.wwf.org.uk/project/conservationtechnology/acoustic-monitoring)
+- [Rainforest Connection Projects](https://www.rfcx.org/)
+- [Soundscapes to Landscapes (S2L)](https://storymaps.arcgis.com/stories/402443b576c146f7b2e5fd8c008376a6)
+- [Ocean Data](https://portal.aodn.org.au/search?uuid=8edf509b-1481-48fd-b9c5-b95b42247f82)
 ---
 
 ## Tutorials and Courses
 
-
-1. [VAE for Audio in PyTorch – GitHub](https://github.com/haofuml/cvpr2021-vae-audio)
-2. [Colab: Intro to VAE with Audio](https://colab.research.google.com/github/tensorflow/probability/blob/main/tensorflow_probability/examples/jupyter_notebooks/VAE_in_TFP.ipynb)
-3. [Coursera: Audio Signal Processing for ML](https://www.coursera.org/learn/audio-signal-processing)
-4. [Medium: Deep Learning for Environmental Sounds](https://towardsdatascience.com/audio-deep-learning-made-simple-automatic-speech-recognition-asr-an-overview-bf72030dcbf4)
-5. [VAE Concepts Explained – Towards Data Science](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+- [Coursera: Audio Signal Processing for ML](https://www.coursera.org/learn/audio-signal-processing)
+- [Medium: Deep Learning for Environmental Sounds](https://medium.com/search?q=environmental+sound)
+- [VAE Concepts Explained – Towards Data Science](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+- [Variational Autoencoder Tutorial (CodeAcademy)](https://www.codecademy.com/article/variational-autoencoder-tutorial-vaes-explained)
 
 
 ---
 
 ## Books
 
-- *Ecoacoustics: The Ecological Role of Sounds* – Farina & Gage (Springer)
-- *Deep Learning for the Life Sciences* – O’Reilly
-- *Bioacoustics: A Comparative Approach* – Lewis (Academic Press)
-- *Pattern Recognition and Machine Learning* – Bishop
-- *Hands-On Generative Deep Learning* – David Foster (O’Reilly)
+- [*Ecoacoustics: The Ecological Role of Sounds*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119230724) – Farina & Gage (Springer)
+- [*Deep Learning for the Life Sciences*](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/) – Bharath Ramsundar, Peter Eastman, Pat Walters, Vijay Pande (O’Reilly)
+- [*Bioacoustics: A Comparative Approach*](https://www.amazon.fr/Bioacoustics-Comparative-Approach-Brian-Lewis/dp/0124465501) – Lewis (Academic Press)
 
 ---
 
 ## Communities and Conferences
 
-- [ML4Wildlife](https://ml4wildlife.org/)
 - [Acoustic Society of America](https://acousticalsociety.org/)
-- [ISMSM Bioacoustics Working Group](https://www.ismsm.org/)
-- [IEEE ICASSP](https://2024.ieeeicassp.org/)
-- [CEC Conference (EAA)](https://cecconference.org/)
-
+- [IQOE Bioacoustics Working Group & Observing Systems](https://www.iqoe.org/systems)
+- [IEEE ICASSP](https://ieeeicassp.org/)
+- [DCASE Community](https://dcase.community/)
 ---
 
 ## Conclusion
