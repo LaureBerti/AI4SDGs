@@ -1,6 +1,6 @@
 # 🌍 SDG#4. Personalization of Conversational Tutoring Systems with LLMs
 
-> A evolving list of resources, tools, datasets, papers, and communities focused on the design and development of **personalized conversational tutoring systems using Large Language Models (LLMs)**.  
+> An evolving list of resources, tools, datasets, papers, and communities focused on the design and development of **personalized conversational tutoring systems using Large Language Models (LLMs)**.  
 
 > Feel free to update and contribute !
 
