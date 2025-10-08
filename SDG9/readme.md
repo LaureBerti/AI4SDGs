@@ -85,11 +85,10 @@ Domain Information**](https://arxiv.org/pdf/2412.02474)
 
 ## Books
 
-- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
-- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- "Building Intelligent IoT Projects" by Agus Kurniawan
-- "Anomaly Detection Principles and Algorithms" by Chunhua Liu
-- "Python Machine Learning" by Sebastian Raschka
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron
+- [Building Intelligent IoT Systems with Python](https://www.amazon.com/Building-Intelligent-Systems-Python-Comprehensive-ebook/dp/B0DJYHFSCC) by Roland Parker
+- [Anomaly Detection Principles and Algorithms](https://link.springer.com/book/10.1007/978-3-319-67526-8) by  Kishan G. Mehrotra , Chilukuri K. Mohan , HuaMing Huang
+- [Python Machine Learning](https://www.awesomebooks.com/book/9781787125933/python-machine-learning?gad_source=1&gad_campaignid=22273431990&gclid=Cj0KCQjwl5jHBhDHARIsAB0YqjzRWdw6xQqqLAP0F7lIUvf-RHbtvN1J7Gk0GYXOEgrBfsj_7T9JhhgaAt1ZEALw_wcB) by Sebastian Raschka
 
 ---
 
