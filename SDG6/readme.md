@@ -1,6 +1,6 @@
 # 🌍 SDG#6. Water Sanitation Prediction using LS‑SVM
 
-> A evolving list of resources, tools, datasets, papers, and communities focused on **Least Squares Support Vector Machines** (LS‑SVM) to predict water quality and sanitation metrics.  
+> An evolving list of resources, tools, datasets, papers, and communities focused on **Least Squares Support Vector Machines** (LS‑SVM) to predict water quality and sanitation metrics.  
 
 > Feel free to update and contribute !
 
