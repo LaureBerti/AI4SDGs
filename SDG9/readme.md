@@ -1,7 +1,7 @@
 
 # 🌍 SDG#9. IoT Anomaly Detection with MLP
 
-> A evolving list of resources, tools, datasets, papers, and communities for detecting anomalies from IoT sensored data using **Multilayer Perceptron (MLP)**.
+> An evolving list of resources, tools, datasets, papers, and communities for detecting anomalies from IoT sensored data using **Multilayer Perceptron (MLP)**.
 
 > Feel free to update and contribute !
 
