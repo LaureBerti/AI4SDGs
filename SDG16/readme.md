@@ -1,6 +1,6 @@
 # 🌍 SDG#16. Prediction of Social Conflicts Using GNNs
 
-> A evolving list of resources, datasets, papers, and tools for predicting social conflicts using **Graph Neural Networks** (GNNs).
+> An evolving list of resources, datasets, papers, and tools for predicting social conflicts using **Graph Neural Networks** (GNNs).
 
 > Feel free to update and contribute !
 
