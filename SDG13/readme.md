@@ -23,6 +23,7 @@
 ## Introduction
 
 > Floods are one of the most devastating natural disasters globally, and accurate, automated segmentation of flooded areas from satellite and aerial images is crucial for timely disaster response. U-Net, a powerful convolutional neural network architecture, has been widely adopted for biomedical and remote sensing segmentation tasks. This list collects essential surveys, scientific papers, datasets, codebases, use cases, and learning resources to empower researchers, practitioners, and students working on flood detection using U-Net.
+
 ---
 
 ##  Scientific Papers
@@ -193,7 +194,6 @@ Future directions worth exploring:
 - Real-time inference at scale
 - Self-supervised learning for flood detection
 - Generative methods for data augmentation in flood prediction
-
 
 ---
 
