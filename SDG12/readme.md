@@ -1,6 +1,6 @@
 # 🌍 SDG#12. Waste Classification with Zero-Shot Learning using CLIP
 
-A evolving list of resources for exploring how Zero-Shot Learning (ZSL) and CLIP (Contrastive Language–Image Pretraining) models are applied in the field of **waste classification**. This list includes academic research, datasets, code, tutorials, tools, and communities, with a strong focus on environmental AI applications and sustainability goals.
+An evolving list of resources for exploring how Zero-Shot Learning (ZSL) and CLIP (Contrastive Language–Image Pretraining) models are applied in the field of **waste classification**. This list includes academic research, datasets, code, tutorials, tools, and communities, with a strong focus on environmental AI applications and sustainability goals.
 
 Feel free to update and contribute !
 
