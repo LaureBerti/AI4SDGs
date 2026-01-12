@@ -23,10 +23,13 @@ CNN–LSTM (Convolutional Neural Network–Long Short-Term Memory) models are hy
 
 ## Scientific Papers
 
+- **Li et al.  (2020)** - *A Hybrid CNN-LSTM Model for Forecasting Particulate Matter (PM2.5)*, * IEEE Access*.[DOI](https://doi.org/10.1109/ACCESS.2020.2971348)
+- **Bekkar et al.  (2021)** -  *Air-pollution prediction in smart city, deep learning approach*, *J Big Data*.[DOI](https://link.springer.com/article/10.1186/s40537-021-00548-1) 
 - **J. Zhang & S. Li (2022)** -  *Air quality index forecast in Beijing based on CNN-LSTM multi-model*, *Chemosphere*.[DOI](https://doi.org/10.1016/j.chemosphere.2022.136180)
-- **Yuan et al. (2025)** – *GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classificationAttention mechanism based CNN-LSTM hybrid deep learning model for atmospheric ozone concentration prediction*, *Scientific Reports*, [DOI](https://www.nature.com/articles/s41598-025-05877-2)
-- **E. Mohapatra, M. Das & S. Rath  (2025)** – *Deep learning-based AQI forecasting: a CNN-LSTM model with visual insights from SHAP-LIME and PDP*, *Computer Methods and Programs in Biomedicine*, [DOI](https://link.springer.com/article/10.1007/s42452-025-07845-x)  
 - **R. Bao, Y. Zhou & W. Jiang (2022)** – *FL-CNN-LSTM: Indoor Air Quality Prediction Using Fuzzy Logic and CNN-LSTM Model*, *C2022 2nd International Conference on Electrical Engineering and Control Science (IC2ECS)*, [DOI](https://doi.org/10.1109/IC2ECS57645.2022.10088050)
+- **Yuan et al. (2025)** – *GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classificationAttention mechanism based CNN-LSTM hybrid deep learning model for atmospheric ozone concentration prediction*, *Scientific Reports*, [DOI](https://www.nature.com/articles/s41598-025-05877-2)
+- **E. Mohapatra, M. Das & S. Rath (2025)** – *Deep learning-based AQI forecasting: a CNN-LSTM model with visual insights from SHAP-LIME and PDP*, *Computer Methods and Programs in Biomedicine*, [DOI](https://link.springer.com/article/10.1007/s42452-025-07845-x)  
+- **E. A. Hashim & T.S. Atia (2025)** – *The efficiency of using CNN-LSTM in air quality prediction: A review*, *AIP Conf. Proc.*, [DOI](https://doi.org/10.1063/5.0259070)  
 
 
 ## Datasets and Benchmarks
@@ -65,7 +68,7 @@ Potential, Trust, and Policy Compliance Coral Reef Monitoring Network (GCRMN)** 
   
 ## Conclusion
 
-GAN-based augmentation of healthcare data is a transformative force, addressing data scarcity while supporting improved model accuracy and equity. However, clinical validity, privacy, and bias must be carefully managed. The future lies in **differentially private GANs, federated model training**, and **multimodal data synthesis** (combining imaging, vitals, and genomics). Collaborative efforts among clinicians, data scientists, ethicists, and regulators will be essential to build trustworthy, impactful solutions. 
+CNN–LSTM–based air pollution prediction is a powerful approach for capturing the spatiotemporal dynamics of atmospheric pollutants, addressing the limitations of traditional statistical models. However, challenges related to data sparsity, model interpretability, and generalization across regions must be carefully managed. The future lies in attention-enhanced CNN–LSTM architectures, transfer and federated learning, and multimodal data fusion (combining sensor data, meteorology, satellite imagery, and traffic information). Collaborative efforts among environmental scientists, data engineers, policymakers, and public health experts will be essential to develop reliable and actionable air quality forecasting systems.
 
 ---
 **Want to contribute?** Feel free to open an issue or submit a pull request! 🎯
