@@ -29,42 +29,52 @@ CNN–LSTM (Convolutional Neural Network–Long Short-Term Memory) models are hy
 - **R. Bao, Y. Zhou & W. Jiang (2022)** – *FL-CNN-LSTM: Indoor Air Quality Prediction Using Fuzzy Logic and CNN-LSTM Model*, *C2022 2nd International Conference on Electrical Engineering and Control Science (IC2ECS)*, [DOI](https://doi.org/10.1109/IC2ECS57645.2022.10088050)
 - **Yuan et al. (2025)** – *GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classificationAttention mechanism based CNN-LSTM hybrid deep learning model for atmospheric ozone concentration prediction*, *Scientific Reports*, [DOI](https://www.nature.com/articles/s41598-025-05877-2)
 - **E. Mohapatra, M. Das & S. Rath (2025)** – *Deep learning-based AQI forecasting: a CNN-LSTM model with visual insights from SHAP-LIME and PDP*, *Computer Methods and Programs in Biomedicine*, [DOI](https://link.springer.com/article/10.1007/s42452-025-07845-x)  
-- **E. A. Hashim & T.S. Atia (2025)** – *The efficiency of using CNN-LSTM in air quality prediction: A review*, *AIP Conf. Proc.*, [DOI](https://doi.org/10.1063/5.0259070)  
+- **E. A. Hashim & T.S. Atia (2025)** – *The efficiency of using CNN-LSTM in air quality prediction: A review*, *AIP Conf. Proc.*, [DOI](https://doi.org/10.1063/5.0259070)
+- **Lilhore et al. (2025)** – *Advanced air quality prediction using multimodal data and dynamic modeling techniques*, *Sci Rep 15*,[DOI](https://doi.org/10.1038/s41598-025-11039-1)
+- **Karmoude et al. (2025)** - *Machine learning for air quality prediction and data analysis: Review on recent advancements, challenges, and outlooks*, *Science of The Total Environment* , [DOI](https://doi.org/10.1016/j.scitotenv.2025.180593)
 
 
 ## Datasets and Benchmarks
 
-- **Kaggle Dataset**  
-  [https://www.kaggle.com/datasets/eashelfatima/synthetic-healthcare-dataset-for-ai-and-ml](https://www.kaggle.com/datasets/eashelfatima/synthetic-healthcare-dataset-for-ai-and-ml)
-- **MIMIC IV** [https://www.nature.com/articles/s41597-022-01899-x](https://www.nature.com/articles/s41597-022-01899-x)
-- **Electronic Health Record Datasets** [https://statsupai.org/pages/data_ehr.html](https://statsupai.org/pages/data_ehr.html)
-- **Open datasets of the US Office of the National Coordinator (ONC) for Health IT** [https://www.healthit.gov/data/data](https://www.healthit.gov/data/data)
+- **Kaggle Datasets**  
+  [https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set](https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set)
+- **UCI Machine Learning Repository** [https://archive.ics.uci.edu/dataset/360/air+quality](https://archive.ics.uci.edu/dataset/360/air+quality)
+- **CleanBreathe Project** [https://github.com/temkovs/skopje-air-pollution-data](https://github.com/temkovs/skopje-air-pollution-data)
+- **Data Gov Datasets** [https://catalog.data.gov/dataset/?tags=air-quality](https://catalog.data.gov/dataset/?tags=air-quality
+- **EEA Air Quality Download service**[https://www.eea.europa.eu/en/datahub/datahubitem-view/778ef9f5-6293-4846-badd-56a29c70880d](https://www.eea.europa.eu/en/datahub/datahubitem-view/778ef9f5-6293-4846-badd-56a29c70880d)
+- **GlobalAir** [https://www.stateofglobalair.org/data/#/air/plot](https://www.stateofglobalair.org/data/#/air/plot)
+- **NASA Air Quality** [https://www.earthdata.nasa.gov/topics/atmosphere/air-quality](https://www.earthdata.nasa.gov/topics/atmosphere/air-quality)
+- **Air Quality Historical Platform** [https://aqicn.org/data-platform/register/](https://aqicn.org/data-platform/register/)
+- -**US Outdoor Air Quality Data**[https://www.epa.gov/outdoor-air-quality-data](https://www.epa.gov/outdoor-air-quality-data)
   
 ## Libraries and Tools
 
-- **Data Sifter** [https://github.com/SOCR/DataSifter](https://github.com/SOCR/DataSifter)
-- **Synthetic Data Vault (SDV)** [https://docs.sdv.dev/sdv](https://docs.sdv.dev/sdv)
+- **EPA Air Sensor Data Tools** [https://www.epa.gov/air-sensor-toolbox/air-sensor-data-tools](https://www.epa.gov/air-sensor-toolbox/air-sensor-data-tools)
+- **Open source tools for air quality data analysis (in R)** [https://github.com/openair-project/openair](https://github.com/openair-project/openair)
+- **AirPy Tool Pytho Package** [https://pypi.org/project/airpy-tool/2.0.0/](https://pypi.org/project/airpy-tool/2.0.0/)
+- **AQI Python** [https://github.com/Spritan/AQIPython](https://github.com/Spritan/AQIPython)
 
 
 ## Courses and Tutorials
 
-- **AI for Healthcare** (Coursera) [https://www.coursera.org/specializations/ai-healthcare](https://www.coursera.org/specializations/ai-healthcare)
-- **AI Applications in Healthcare** [https://www.mygreatlearning.com/academy/learn-for-free/courses/ai-in-healthcare](https://www.mygreatlearning.com/academy/learn-for-free/courses/ai-in-healthcare)
-- **Generative AI for Healthcare** (Google) [https://www.skills.google/course_templates/1081](https://www.skills.google/course_templates/1081)
+- **Monitoring Air Pollution Effects under the Convention** (UN CC eLearn) [https://unccelearn.org/course/view.php?id=219&page=overview&lang=en](https://unccelearn.org/course/view.php?id=219&page=overview&lang=en)
+- **Satellite-based Air Quality Monitoring using Earth Engine** (Udemy) [https://www.udemy.com/course/satellite-based-air-quality-monitoring-using-earth-engine](https://www.udemy.com/course/satellite-based-air-quality-monitoring-using-earth-engine)
+- **Air Pollution** (Class Central) [https://www.classcentral.com/subject/air-pollution](https://www.classcentral.com/subject/air-pollution)
+- **MOOC List on Air Quality** [https://www.mooc-list.com/tags/air-quality](https://www.mooc-list.com/tags/air-quality)
 
   
 ## Books
 
-- *Accelerating AI with Synthetic Data* —  Khaled El Emam, 2020 [https://www.oreilly.com/library/view/accelerating-ai-with/9781492045991/](https://www.oreilly.com/library/view/accelerating-ai-with/9781492045991/)
-- *Augmented Intelligence in Healthcare: A Pragmatic and Integrated Analysis (Studies in Computational Intelligence, 1024) 1st ed. 2022 Edition* -  Sushruta Mishra, Hrudaya Kumar Tripathy, Pradeep Mallick, Khaled Shaalan (Editors) 2022 [https://link.springer.com/book/10.1007/978-981-19-1076-0](https://link.springer.com/book/10.1007/978-981-19-1076-0)
-- *GANs for Data Augmentation in Healthcare* -  Arun Solanki, Mohd Naved (Ed), 2023 [https://link.springer.com/book/10.1007/978-3-031-43205-7](https://link.springer.com/book/10.1007/978-3-031-43205-7)
+- *Artificial Intelligence for Air Quality Monitoring and Prediction* —  Amit Awasthi, Kanhu Charan Pattnayak, Gaurav Dhiman, Pushp Raj Tiwari, 2025, ISBN 9781032683799 CRC Press [https://www.taylorfrancis.com/books/edit/10.1201/9781032683805/artificial-intelligence-air-quality-monitoring-prediction-amit-awasthi-kanhu-charan-pattnayak-gaurav-dhiman-pushp-raj-tiwari](https://www.taylorfrancis.com/books/edit/10.1201/9781032683805/artificial-intelligence-air-quality-monitoring-prediction-amit-awasthi-kanhu-charan-pattnayak-gaurav-dhiman-pushp-raj-tiwari)
+- *Predict Air Pollution Level using Machine Learning: Get Practical Hands-on Experience* -  Aditya Chatterjee & Divij Kulshrestha, 2022, [https://www.amazon.com/Predict-Pollution-Machine-Learning-Hands/dp/B0B5XCBL4K](https://www.amazon.com/Predict-Pollution-Machine-Learning-Hands/dp/B0B5XCBL4K)
 
 ## Communities and Conferences
 
-- **NEURIPS Workshop on GenAI for Health
-Potential, Trust, and Policy Compliance Coral Reef Monitoring Network (GCRMN)**   [https://genai4health.github.io/](https://genai4health.github.io/)
-- **International Conference on Generative AI in Healthcare & Science** [https://scientificwisdom.org/conferences/generative-AI-healthcare.html](https://scientificwisdom.org/conferences/generative-AI-healthcare.html)
+- **International Conference on Air Quality**   [https://www.air-quality-conference.org/](https://www.air-quality-conference.org/)
+- **International Conference on Air Pollution and Air Quality Control** [https://aircosystem.fr/en/evenements/](https://aircosystem.fr/en/evenements/)
 - **International Conference on AI in Healthcare** [https://aiih.cc/](https://aiih.cc/)
+- **Air Pollution Modelling conferences** [https://conferenceindex.org/conferences/air-pollution-modelling](https://conferenceindex.org/conferences/air-pollution-modelling)
+- **International Conference on Environmental Science, Sustainability & Global Innovation** [https://environmentalscienceconference.com/program/scientific-sessions/atmospheric-processes-air-quality](https://environmentalscienceconference.com/program/scientific-sessions/atmospheric-processes-air-quality)
   
 ## Conclusion
 
