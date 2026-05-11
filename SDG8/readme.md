@@ -94,6 +94,7 @@ Predicting greenhouse gas (GHG) emissions is essential for climate action, enabl
 [Link](https://shop.elsevier.com/books/machine-learning-in-earth-environmental-and-planetary-sciences/bonakdari/978-0-443-15284-9)
 - **"Elements of Statistical Learning"** – Trevor Hastie. [Link](https://www.libristo.eu/fr/livre/elements-of-statistical-learning_04370184)
 - **"Machine Learning for Time Series Forecasting with Python"** – Francesca Lazzeri. [Link](https://www.libristo.eu/fr/livre/machine-learning-for-time-series-forecasting-with-python_28601059)
+- [**Biofuel Production, Performance and Emission Optimization : Statistical and Artificial Intelligence Tools**](https://openlibrary.org/works/OL42544103W) — Manjunath Patel G. C., Ajith B Suresh
 
 ---
 

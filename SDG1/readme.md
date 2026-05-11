@@ -101,7 +101,18 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 - "Deep Learning for Remote Sensing Images with Open Source Software" by Rémi Cresson, CRC Press, 2020, ISBN 9 780367 858483.
 - "Explainable Machine Learning for Geospatial Data Analysis" by Courage Kamusoko,  CRC Press, 2024. [eBook ISBN 9781003398257](https://doi.org/10.1201/9781003398257) 
 - "Handbook of Geospatial Artificial Intelligence" by Song Gao, Yingjie Hu, Wenwen Li, CRC Press 2024, ISBN 9781032311661.
-
+- [The Use of Artificial Intelligence for Space Applications](https://play.google.com/store/books/details?id=1M7FEAAAQBAJ&source=gbs_api) — 9783031257551
+- [Artificial Intelligence and Internet of Things for Smart Agriculture](http://books.google.fr/books?id=XGMrEQAAQBAJ&dq=Estimation+of+Poverty+from+Satellite+Images+Using+Transformers+artificial+intelligence&hl=&source=gbs_api) — 9782832555538
+- [Machine Learning and Knowledge Discovery in Databases](https://play.google.com/store/books/details?id=W1i0EAAAQBAJ&source=gbs_api) — 9783031264191
+- [Mitigation and Adaptation Strategies Against Climate Change in Natural Systems](https://play.google.com/store/books/details?id=M39JEQAAQBAJ&source=gbs_api) — 9783031759680
+- [Advanced Data Mining and Applications](https://play.google.com/store/books/details?id=AQuQEQAAQBAJ&source=gbs_api) — 9789819534593
+- [Proceedings of Third International Conference on Computing and Communication Networks](https://play.google.com/store/books/details?id=AycVEQAAQBAJ&source=gbs_api) — 9789819708925
+- [Advanced Intelligent Computing Technology and Applications](https://play.google.com/store/books/details?id=yVkXEQAAQBAJ&source=gbs_api) — 9789819756186
+- [The Generative AI-Driven Sustainable Smart City](https://play.google.com/store/books/details?id=ud7IEQAAQBAJ&source=gbs_api) — 9781040609613
+- [International Aerospace Abstracts](http://books.google.fr/books?id=sEAcAQAAMAAJ&dq=Estimation+of+Poverty+from+Satellite+Images+Using+Transformers+artificial+intelligence&hl=&source=gbs_api) — UOM:39015040314299
+- [Mapping the Spatial Distribution of Poverty Using Satellite Imagery in Thailand](http://books.google.fr/books?id=OcNwzgEACAAJ&dq=Estimation+of+Poverty+from+Satellite+Images+Using+Transformers+artificial+intelligence&hl=&source=gbs_api) — 9292627686
+- [Guidebook on Mapping Poverty Through Data Integration and Artificial Intelligence](https://openlibrary.org/works/OL26767852W) — Asian Development Bank
+- [Mapping Poverty Through Data Integration and Artificial Intelligence](https://openlibrary.org/works/OL25465886W) — Asian Development Asian Development Bank
 
 ---
 

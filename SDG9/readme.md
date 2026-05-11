@@ -89,6 +89,7 @@ Domain Information**](https://arxiv.org/pdf/2412.02474)
 - [Building Intelligent IoT Systems with Python](https://www.amazon.com/Building-Intelligent-Systems-Python-Comprehensive-ebook/dp/B0DJYHFSCC) by Roland Parker
 - [Anomaly Detection Principles and Algorithms](https://link.springer.com/book/10.1007/978-3-319-67526-8) by  Kishan G. Mehrotra , Chilukuri K. Mohan , HuaMing Huang
 - [Python Machine Learning](https://www.awesomebooks.com/book/9781787125933/python-machine-learning?gad_source=1&gad_campaignid=22273431990&gclid=Cj0KCQjwl5jHBhDHARIsAB0YqjzRWdw6xQqqLAP0F7lIUvf-RHbtvN1J7Gk0GYXOEgrBfsj_7T9JhhgaAt1ZEALw_wcB) by Sebastian Raschka
+- [**Human Activity Recognition and Anomaly Detection**](https://openlibrary.org/works/OL42399719W) — Kuan-Chuan Peng, Yizhou Wang
 
 ---
 
