@@ -62,6 +62,20 @@ GANs (Generative Adversarial Networks) are deep neural architectures where two n
 - *Accelerating AI with Synthetic Data* —  Khaled El Emam, 2020 [https://www.oreilly.com/library/view/accelerating-ai-with/9781492045991/](https://www.oreilly.com/library/view/accelerating-ai-with/9781492045991/)
 - *Augmented Intelligence in Healthcare: A Pragmatic and Integrated Analysis (Studies in Computational Intelligence, 1024) 1st ed. 2022 Edition* -  Sushruta Mishra, Hrudaya Kumar Tripathy, Pradeep Mallick, Khaled Shaalan (Editors) 2022 [https://link.springer.com/book/10.1007/978-981-19-1076-0](https://link.springer.com/book/10.1007/978-981-19-1076-0)
 - *GANs for Data Augmentation in Healthcare* -  Arun Solanki, Mohd Naved (Ed), 2023 [https://link.springer.com/book/10.1007/978-3-031-43205-7](https://link.springer.com/book/10.1007/978-3-031-43205-7)
+- [Artificial Intelligence in Healthcare](https://openlibrary.org/works/OL27742056W) — Dr Parag Suresh Mahajan MD
+- [Transforming Healthcare](https://openlibrary.org/works/OL44558840W) — K. Srinivasan, Jude Hemanth
+- [Data-Driven Analytics for Healthcare](https://openlibrary.org/works/OL42437240W) — Meghna Sharma, Priyanka Vashisht
+- [Arti&#64257;cial Intelligence for Personalized Preventive Adolescent Healthcare](https://openlibrary.org/works/OL30926335W) — Dani Wade
+- [Artificial Intelligence in Healthcare](https://openlibrary.org/works/OL20736325W) — Adam Bohr, Kaveh Memarzadeh
+- [Artificial Intelligence in Healthcare and Medicine](https://openlibrary.org/works/OL26511140W) — Kayvan Najarian, Delaram Kahrobaei
+- [Using Arti&#64257;cial Intelligence to Analyse and Teach Communication in Healthcare](https://openlibrary.org/works/OL30933882W) — Dani Wade
+- [Healthcare and Artificial Intelligence](https://openlibrary.org/works/OL20818619W) — Bernard Nordlinger, Cédric Villani
+- [Artificial Intelligence in Healthcare](https://openlibrary.org/works/OL28352122W) — Tianhua Chen, Jenny Carter
+- [Artificial Intelligence for Disease Diagnosis and Prognosis in Smart Healthcare](https://openlibrary.org/works/OL28868905W) — Ghita K. Mostefaoui, S. M. Riazul Islam
+- [Artificial Intelligence-Based System Models in Healthcare](https://openlibrary.org/works/OL37826140W) — A. Jose Anand, K. Kalaiselvi
+- [Artificial Intelligence in Healthcare Industry](https://openlibrary.org/works/OL35710202W) — Jyotismita Talukdar, T. P. Singh
+- [Machine Learning and Artificial Intelligence in Healthcare Systems](https://openlibrary.org/works/OL28888194W) — Tawseef Ayoub Shaikh, Saqib Hakak
+- [Rise of Artificial Intelligence in Healthcare Applications](https://openlibrary.org/works/OL36190508W) — David Gerald
 
 ## Communities and Conferences
 

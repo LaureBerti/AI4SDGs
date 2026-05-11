@@ -82,7 +82,16 @@ Sea level rise is one of the most critical challenges in the era of climate chan
 - [Artificial Intelligence Oceanography](https://library.oapen.org/handle/20.500.12657/61327), Springer, 2023.
 - [Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science, and Geosciences](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119646181) by Gustau Camps-Valls, Devis Tuia, Xiao Xiang Zhu, Markus Reichstein (Eds), John Wiley & Sons Ltd, 2021.
 - [Time Series Analysis and Its Application](http://www.stat.ucla.edu/~frederic/415/S23/tsa4.pdf) by Shumway and Stoffer, 5th edition, Springer, 2025.   
-- [Climate Time Series Analysis](https://link.springer.com/book/10.1007/978-3-319-04450-7) by Manfred Mudelsee, Springer, 2014. 
+- [Climate Time Series Analysis](https://link.springer.com/book/10.1007/978-3-319-04450-7) by Manfred Mudelsee, Springer, 2014.
+- [Toward Human-Level Artificial Intelligence](https://openlibrary.org/works/OL39668050W) — Eitan Michael Azoff
+- [Toward Human-Level Artificial Intelligence](https://openlibrary.org/works/OL21202240W) — Philip C. Jackson
+- [Towards Human-Level Artificial Intelligence](https://openlibrary.org/works/OL39662125W) — Eitan Michael Azoff
+- [Artificial Intelligence, Level 6](https://openlibrary.org/works/OL20743143W) — Ben Hubbard
+- [Artificial intelligence level 8](https://openlibrary.org/works/OL42658030W)
+- [Artificial intelligence level 8](https://openlibrary.org/works/OL42658031W)
+- [Artificial intelligence level 8](https://openlibrary.org/works/OL42658032W)
+- [Penguin Readers Level 7](https://openlibrary.org/works/OL25804911W) — Michael Wooldridge
+- [Futures of Artificial Intelligence Through Technology Readiness Levels](https://openlibrary.org/works/OL35770359W) — Dani Wade
 
 ---
 

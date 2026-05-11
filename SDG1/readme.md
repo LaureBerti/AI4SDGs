@@ -111,6 +111,8 @@ Learning for Estimating Poverty](https://www.unglobalpulse.org/wp-content/upload
 - [The Generative AI-Driven Sustainable Smart City](https://play.google.com/store/books/details?id=ud7IEQAAQBAJ&source=gbs_api) — 9781040609613
 - [International Aerospace Abstracts](http://books.google.fr/books?id=sEAcAQAAMAAJ&dq=Estimation+of+Poverty+from+Satellite+Images+Using+Transformers+artificial+intelligence&hl=&source=gbs_api) — UOM:39015040314299
 - [Mapping the Spatial Distribution of Poverty Using Satellite Imagery in Thailand](http://books.google.fr/books?id=OcNwzgEACAAJ&dq=Estimation+of+Poverty+from+Satellite+Images+Using+Transformers+artificial+intelligence&hl=&source=gbs_api) — 9292627686
+- [Guidebook on Mapping Poverty Through Data Integration and Artificial Intelligence](https://openlibrary.org/works/OL26767852W) — Asian Development Bank
+- [Mapping Poverty Through Data Integration and Artificial Intelligence](https://openlibrary.org/works/OL25465886W) — Asian Development Asian Development Bank
 
 ---
 
